@@ -151,6 +151,7 @@
 		<run>Charity Dual Red</run>
 		<run>Japanese Blue</run>
 		<run>NES Yellow</run>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -301,6 +302,7 @@
 		<run>Moemon</run>
 		<run>Crystal Revisit</run>
 		<run>Bronze</run>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8298,6 +8300,7 @@
 		<run>Renegade Platinum</run>
 		<run>Randomized SoulSilver</run>
 		<run>Super Gauntlet Y</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8521,6 +8524,7 @@
 		<run>Randomized Violet+</run>
 		<run>Super Gauntlet Diamond</run>
 		<run>Super Gauntlet Pearl</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8629,6 +8633,8 @@
 	</types>
 	<runs>
 		<run>Black 2</run>
+		<run>ZPP Blanc Revisit</run>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8985,6 +8991,7 @@
 	<runs>
 		<run>Black</run>
 		<run>Black Revisit</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9320,6 +9327,7 @@
 	</types>
 	<runs>
 		<run>Blazed Glazed</run>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9462,6 +9470,7 @@
 		<run>Sword Revisit - Isle of Armor</run>
 		<run>Super Gauntlet Black</run>
 		<run>Super Gauntlet Ultra Moon</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9956,6 +9965,7 @@
 	</types>
 	<runs>
 		<run>Waning Moon</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10846,6 +10856,7 @@
 		<run>Randomized Y</run>
 		<run>Volt White 2 Redux</run>
 		<run>Inverse White</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10955,10 +10966,11 @@
 	</types>
 	<runs>
 		<run>Inverse White</run>
+		<run>ZPP Blanc Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>inter</emblem>
 	</status>
   </mon> 
 
@@ -11085,10 +11097,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11768,10 +11781,11 @@
 	</types>
 	<runs>
 		<run>Sword Revisit - Crown Tundra</run>
+		<run>Legends Z-A</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
