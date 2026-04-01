@@ -46,7 +46,7 @@ function createImage() {
 	
 	var posX = Math.floor(Math.random() * 1771)-50;
 	var posY = Math.floor(Math.random() * 931)-50;
-	var rotAngle = Math.floor(Math.random() * 91)-45;
+	var rotAngle = Math.floor(Math.random() * 360)-180;
 	
 	var imgCont = document.getElementById("imageContainer");
 	var imgElem = document.createElement("img");
@@ -75,6 +75,13 @@ function pickRandomImage() {
 		"kecleon_cyan.gif",
 		"kecleon_blue.gif",
 		"kecleon_purple.gif",
+		"kecleon_red_flip.gif",
+		"kecleon_brown_flip.gif",
+		"kecleon_yellow_flip.gif",
+		"kecleon_green_flip.gif",
+		"kecleon_cyan_flip.gif",
+		"kecleon_blue_flip.gif",
+		"kecleon_purple_flip.gif",
 	];
 	
 	return imageList[Math.floor(Math.random() * imageList.length)];
