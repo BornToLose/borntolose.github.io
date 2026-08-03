@@ -173,22 +173,28 @@ namespace TPP.Display.Elements.RunStatus {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Elite Four" || e.Group == "Final Bosses" || (e.Group == "Champions" && (`${e.Image} ${e.Class}`.toLowerCase()).indexOf("rematch") < 0) /*&& e.Image.indexOf("hosts") < 0*/));
         }
         private get eliteFourRematch() {
-            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Elite Four Rematch" || (e.Group == "Champions" && (`${e.Image} ${e.Class}`.toLowerCase()).indexOf("rematch") > 0)));
+            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Elite Four Rematch" || e.Group == "Rematch Champions" || (e.Group == "Champions" && (`${e.Image} ${e.Class}`.toLowerCase()).indexOf("rematch") > 0)));
         }
         private get pastHosts() {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Past Hosts" /*|| (e.Group == "Champions" && e.Image.indexOf("hosts") > 0)*/));
+        }
+        private get battleLegends() {
+            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Battle Legends" || e.Group == "Former Champions"));
         }
         private get rematchBadges() {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Rematch Badges" || e.Group == "Rematch Stamps"));
         }
         private get bosses() {
-            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Bosses" || e.Group == "Noble Pokémon"));
+            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Bosses" || e.Group == "Noble Pokémon" || e.Group == "Rogue Mega Pokémon"));
         }
         private get trainers() {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Trainers" || e.Group == "Rivals" || e.Group == "Rival"));
         }
         private get rematchBosses() {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Rematch Bosses"));
+        }
+        private get ribbons() {
+            return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Ribbons" || e.Group == "Contests"));
         }
         private get tournaments() {
             return this.bakeEvents(this.state.run.Events.filter(e => e.Group == "Tournaments"));

@@ -49,31 +49,6 @@ declare namespace TPP {
     }
     interface DisplayHallOfFame extends HallOfFame, DisplayEvent {
     }
-    interface FinalParty extends Event {
-        Party: {
-            Nickname?: string;
-            PreviousNick?: string;
-            Pokemon: string;
-            Level: number;
-            ShowSpecies?: boolean;
-            Gender?: PokemonGender;
-            Number?: number | string;
-            Type1?: string;
-            Type2?: string;
-            OT?: string;
-            Met?: string;
-            IDNo?: string;
-            Shiny?: boolean;
-            Form?: string;
-            Class?: string;
-        }[];
-        IDNo?: string;
-        Money?: number;
-        Coins?: number;
-        Badges?: number;
-        Caught?: number;
-        Seen?: number;
-    }
 }
 declare namespace Twitch {
     interface TwitchCall {
@@ -123,6 +98,7 @@ declare namespace TPP {
         APIObjectName?: string;
         Generation?: number;
         Pokedex?: string;
+        ExtraDexes?: string[];
         DexTotal?: number;
         DexMapping?: number[];
         FromNatDex?: boolean;
@@ -134,6 +110,7 @@ declare namespace TPP {
             pokemon?: boolean;
         };
         BaseGame?: string;
+        Language?: "English" | "French" | "German";
         Class?: string;
         ContainsRunsFrom?: string[];
         Revisit?: {

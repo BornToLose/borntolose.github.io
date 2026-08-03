@@ -51,7 +51,7 @@ var ShortIntermissions: TPP.Collection = {
     Scale: TPP.Scale.Minutes,
     Runs: []
 }
-var tppData: TPP.Collection[] = [ZEvent2022, ZEvent2024, ZEvent2025, Revisits];
+var tppData: TPP.Collection[] = [ZEvent2022, ZEvent2024, ZEvent2025];
 
 var exports = exports || {};
 exports.tppData = tppData;

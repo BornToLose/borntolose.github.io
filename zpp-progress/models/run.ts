@@ -24,6 +24,7 @@ namespace TPP {
         APIObjectName?: string;
         Generation?: number;
         Pokedex?: string;
+        ExtraDexes?: string[];
         DexTotal?: number;
         DexMapping?: number[];
         FromNatDex?: boolean;
@@ -35,6 +36,7 @@ namespace TPP {
             pokemon?: boolean;
         };
         BaseGame?: string;
+        Language?: "English" | "French" | "German";
         Class?: string;
         ContainsRunsFrom?: string[];
         Revisit?: {

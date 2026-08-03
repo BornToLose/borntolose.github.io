@@ -369,6 +369,12 @@ declare namespace TPP.Controllers {
         render(): JSX.Element;
     }
 }
+declare namespace TPP.Controllers {
+    class LandingPageController extends ControllerBase {
+        constructor(data: Collection[]);
+        render(): JSX.Element;
+    }
+}
 declare namespace TPP.Display.Elements.Pokedex {
     interface DexEntryProps {
         entry: TPP.Pokedex.DexEntryBase;
@@ -564,10 +570,12 @@ declare namespace TPP.Display.Elements.RunStatus {
         private get eliteFour();
         private get eliteFourRematch();
         private get pastHosts();
+        private get battleLegends();
         private get rematchBadges();
         private get bosses();
         private get trainers();
         private get rematchBosses();
+        private get ribbons();
         private get tournaments();
         private get battleFrontier();
         private partyDisplay;

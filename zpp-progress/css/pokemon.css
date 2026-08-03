@@ -1,3 +1,4 @@
+.pokesprite img { background-image: url("../img/pokemon.png"); background-size: 10em; }
 .progressChart .run .event.pokesprite.pokemon img { background-image: url("../img/pokemon.png"); background-size: 10em; }
 .ms .dexEntry .pokesprite:not(.missingno) img { background-image: url("../img/pokemon.png"); background-size: 10em; }
 .dexEntry .pokesprite:not(.missingno) img { background-image: url("../img/pokemon-large.png"); background-size: 10em; }

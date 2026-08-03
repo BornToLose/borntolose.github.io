@@ -72,12 +72,12 @@
             "ability":"Absorb Volt",
             "level":50,
             "stats":{
-                "hp":65,
-                "attack":65,
-                "defense":60,
-                "special_attack":110,
-                "special_defense":95,
-                "speed":130
+                "hp":137,
+                "attack":80,
+                "defense":88,
+                "special_attack":121,
+                "special_defense":110,
+                "speed":157
             },
             "gender":"Female",
             "experience":{
@@ -159,12 +159,12 @@
             "ability":"Regard Vif",
             "level":49,
             "stats":{
-                "hp":83,
-                "attack":80,
-                "defense":75,
-                "special_attack":70,
-                "special_defense":70,
-                "speed":91
+                "hp":153,
+                "attack":95,
+                "defense":93,
+                "special_attack":81,
+                "special_defense":72,
+                "speed":123
             },
             "gender":"Male",
             "experience":{
@@ -214,7 +214,7 @@
                 "attack":30,
                 "defense":15,
                 "special_attack":26,
-                "special_defense":24,
+                "special_defense":21,
                 "speed":18
             },
             "is_egg":false,
@@ -244,12 +244,12 @@
             "ability":"Voile Sable",
             "level":10,
             "stats":{
-                "hp":50,
-                "attack":75,
-                "defense":85,
-                "special_attack":20,
-                "special_defense":30,
-                "speed":40
+                "hp":31,
+                "attack":23,
+                "defense":23,
+                "special_attack":11,
+                "special_defense":13,
+                "speed":14
             },
             "gender":"Male",
             "experience":{
@@ -331,12 +331,12 @@
             "ability":"Engrais",
             "level":52,
             "stats":{
-                "hp":80,
-                "attack":82,
-                "defense":83,
-                "special_attack":100,
-                "special_defense":100,
-                "speed":80
+                "hp":158,
+                "attack":88,
+                "defense":106,
+                "special_attack":139,
+                "special_defense":113,
+                "speed":123
             },
             "gender":"Male",
             "experience":{
@@ -416,12 +416,12 @@
             "ability":"Absorb Eau",
             "level":28,
             "stats":{
-                "hp":130,
-                "attack":85,
-                "defense":80,
-                "special_attack":85,
-                "special_defense":95,
-                "speed":60
+                "hp":116,
+                "attack":54,
+                "defense":52,
+                "special_attack":57,
+                "special_defense":58,
+                "speed":48
             },
             "gender":"Male",
             "experience":{
@@ -501,12 +501,12 @@
             "ability":"Vaccin",
             "level":30,
             "stats":{
-                "hp":160,
-                "attack":110,
-                "defense":65,
-                "special_attack":65,
-                "special_defense":110,
-                "speed":30
+                "hp":139,
+                "attack":72,
+                "defense":45,
+                "special_attack":45,
+                "special_defense":75,
+                "speed":23
             },
             "gender":"Male",
             "experience":{

@@ -78,6 +78,12 @@
 .badgeList {
     width:auto;
 }
+.badgeList ul {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: center;
+}
 .badgeList ul h3 {
     font-family: pokeplatinum, monospace;
 }
@@ -86,11 +92,13 @@
 }
 
 .badgeList ul li {
-    display:inline-block;
+    display:inline-flex;
+    flex-flow: column nowrap;
+    align-items: center;
     background-color: rgba(0,0,0,.1);
     margin:.2em;
     width:12em;
-    vertical-align: top;
+    padding: 0.2em;
 }
 
 .badgeList ul li .image {
@@ -99,6 +107,7 @@
     width: 1em;
     height: 1em;
     margin: 5px 0;
+    margin-top: auto;
 }
 
 .pixel-art img {
@@ -201,6 +210,11 @@
 
 .pokemon-hud ul.party > li:not(.host) {
     min-width:12em;
+}
+
+.pokemon-hud.pc-box:not(.no-box-number) h3:before {
+    content:"#.";
+    font-family: pokered, pokeplatinum, monospace;
 }
 
 .pokemon-hud.pc-box ul.party > li {
@@ -537,4 +551,23 @@
     transform:skew(15deg)translateX(-.2em);
     max-width: 100%;
     background-color:purple;
+}
+
+.l10n .itemsList, .l10n .badgeList, .l10n .pokemon-hud.pc-box {
+    font-family: pokered-modern, pokered, pokeplatinum, monospace;
+    font-variant-ligatures: none;
+}
+.l10n .pokemon-hud.pc-box:not(.no-box-number) h3:before {
+    position: relative;
+    top: -0.08em;
+}
+
+.image.jax:hover {
+    background-image:url("../img/trainers/unbound/jax.webp");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image.jax:hover img {
+    visibility: hidden;
 }

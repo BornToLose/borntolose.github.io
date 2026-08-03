@@ -49,31 +49,6 @@ declare namespace TPP {
     }
     interface DisplayHallOfFame extends HallOfFame, DisplayEvent {
     }
-    interface FinalParty extends Event {
-        Party: {
-            Nickname?: string;
-            PreviousNick?: string;
-            Pokemon: string;
-            Level: number;
-            ShowSpecies?: boolean;
-            Gender?: PokemonGender;
-            Number?: number | string;
-            Type1?: string;
-            Type2?: string;
-            OT?: string;
-            Met?: string;
-            IDNo?: string;
-            Shiny?: boolean;
-            Form?: string;
-            Class?: string;
-        }[];
-        IDNo?: string;
-        Money?: number;
-        Coins?: number;
-        Badges?: number;
-        Caught?: number;
-        Seen?: number;
-    }
 }
 declare namespace Twitch {
     interface TwitchCall {
@@ -123,6 +98,7 @@ declare namespace TPP {
         APIObjectName?: string;
         Generation?: number;
         Pokedex?: string;
+        ExtraDexes?: string[];
         DexTotal?: number;
         DexMapping?: number[];
         FromNatDex?: boolean;
@@ -134,6 +110,7 @@ declare namespace TPP {
             pokemon?: boolean;
         };
         BaseGame?: string;
+        Language?: "English" | "French" | "German";
         Class?: string;
         ContainsRunsFrom?: string[];
         Revisit?: {
@@ -324,11 +301,13 @@ declare namespace TPP.Pokedex {
         "First Owned" = 2
     }
     class GlobalDexBase {
+        DexName: string | undefined;
         Entries: DexEntryBase[];
         private get NoGlitchMon();
         get TotalOwned(): number;
         get TotalInDex(): number;
         get OwnedPercentage(): number;
+        get Name(): string;
         TotalOwnedBy(run: Run): number;
         get Owned(): DexEntryBase[];
         get Unowned(): DexEntryBase[];
@@ -373,7 +352,7 @@ declare namespace TPP.Transforms.Pokedex {
 }
 declare namespace TPP.Transforms.Pokedex {
     class GlobalDex extends TPP.Pokedex.GlobalDexBase {
-        constructor(tppData: Collection[], PokeList: string[]);
-        constructor(tppData: CollectionSummary, PokeList: string[]);
+        constructor(tppData: Collection[], PokeList: string[], name?: string);
+        constructor(tppData: CollectionSummary, PokeList: string[], name?: string);
     }
 }
