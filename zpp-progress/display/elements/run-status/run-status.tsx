@@ -29,7 +29,7 @@ namespace TPP.Display.Elements.RunStatus {
     export class App extends React.Component<RunStatusProps, RunStatusState> {
         private UpdateRunData() {
             this.setState({ updatingRunData: true });
-            $.get("http://thatswhatyouget.github.io/tpp-progress/bin/tpp-data.json").then((data: Collection[]) => {
+            $.get("https://borntolose.github.io/zpp-progress/bin/tpp-data.json").then((data: Collection[]) => {
                 data.forEach(c => c.Runs.forEach(r => {
                     if (r.RunName == this.state.run.RunName) {
                         r.Ongoing = r.Ongoing || (r.StartTime * 1000 <= Date.now() && (Duration.parse(r.Duration, r.StartTime).TotalSeconds + r.StartTime) * 1000 > Date.now());

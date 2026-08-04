@@ -33,7 +33,7 @@ module TPP.Display.RunStatus {
     }
 
     function updateTPPData(tppData: Collection[]): JQueryPromise<Collection[]> {
-        return $.get("http://thatswhatyouget.github.io/tpp-progress/bin/tpp-data.json").then((data: Collection[]) => {
+        return $.get("https://borntolose.github.io/zpp-progress/bin/tpp-data.json").then((data: Collection[]) => {
             for (var c = 0; c < tppData.length; c++) {
                 for (var r = 0; r < tppData[c].Runs.length; r++) {
                     tppData[c].Runs[r].Events = data[c].Runs[r].Events;
