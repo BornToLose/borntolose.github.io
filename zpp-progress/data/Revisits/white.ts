@@ -27,7 +27,7 @@ ZEvent2025.Runs.push(
                     { Pokemon: "Swanna", Nickname: "ADMIN♥♥♥♥♥", Level: 44, Gender: "Female" },
                     { Pokemon: "Zekrom", Nickname: "”♦︎", Level: 52 },
                     { Pokemon: "Zebstrika", Nickname: "MLG", Level: 45, Gender: "Female" },
-                    { Pokemon: "Emboar", Level: 55, Gender: "Male" },
+                    { Pokemon: "Emboar", Nickname: "Roitiflam", Level: 55, Gender: "Male" },
                 ],
                 Image: "img/ribbons/event.png",
                 FirstAttemptDate: ""
