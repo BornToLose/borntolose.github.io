@@ -1106,6 +1106,9 @@
 .pokesprite.raichu.megay img { background-image:url("../img/alternate/raichu-megay.png")!important; background-position: center!important; background-size: 1em !important; }
 .pokesprite.mewtwo.megax img { background-image:url("../img/alternate/mewtwo-megax.png")!important; background-position: center!important; background-size: 1em !important; }
 .pokesprite.mewtwo.megay img { background-image:url("../img/alternate/mewtwo-megay.png")!important; background-position: center!important; background-size: 1em !important; }
+.pokesprite.absol.megaz img { background-image:url("../img/alternate/absol-megaz.png")!important; background-position: center!important; background-size: 1em !important; }
+.pokesprite.carchacrok.megaz img { background-image:url("../img/alternate/carchacrok-megaz.png")!important; background-position: center!important; background-size: 1em !important; }
+.pokesprite.lucario.megaz img { background-image:url("../img/alternate/lucario-megaz.png")!important; background-position: center!important; background-size: 1em !important; }
 .pokesprite.tauros.paldea-flamboyant img { background-image:url("../img/alternate/tauros-paldea-flamboyant.png")!important; background-position: center!important; background-size: 1em !important; }
 .pokesprite.tauros.paldea-aquatique img { background-image:url("../img/alternate/tauros-paldea-aquatique.png")!important; background-position: center!important; background-size: 1em !important; }
 .pokesprite.zarbi.t img { background-image:url("../img/alternate/zarbi-t.png")!important; background-position: center!important; background-size: 1em !important; }
@@ -1438,11 +1441,14 @@
 .pokesprite.unidentified img  { background-image:url("../img/fakemon/unidentified.png")!important; background-size: 1em!important; background-position: center!important; }
 .event.pokemon.pokesprite.unidentified img { background-size: 50%!important; background-position: center!important; }
 .mega .pokesprite.dracaufeu img { background-image:url("../img/alternate/dracaufeu-megax.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
-.mega .pokesprite.dracaufeu-42 img { background-image:url("../img/alternate/dracaufeu-megay.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
+.mega .pokesprite.dracaufeu-45 img { background-image:url("../img/alternate/dracaufeu-megay.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
 .mega .pokesprite.raichu img { background-image:url("../img/alternate/raichu-megax.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
 .mega .pokesprite.raichu-14 img { background-image:url("../img/alternate/raichu-megay.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
 .mega .pokesprite.mewtwo img { background-image:url("../img/alternate/mewtwo-megax.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
-.mega .pokesprite.mewtwo-71 img { background-image:url("../img/alternate/mewtwo-megay.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
+.mega .pokesprite.mewtwo-74 img { background-image:url("../img/alternate/mewtwo-megay.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
+.mega .pokesprite.absol-36 img { background-image:url("../img/alternate/absol-megaz.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
+.mega .pokesprite.carchacrok-32 img { background-image:url("../img/alternate/carchacrok-megaz.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
+.mega .pokesprite.lucario-38 img { background-image:url("../img/alternate/lucario-megaz.png")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }
 .paldea .pokesprite.tauros img { background-image:url('../img/pokemon-paldea.png')!important; background-position: 0px -0em!important; background-size: 1em !important; }
 .paldea .pokesprite.axoloto img { background-image:url('../img/pokemon-paldea.png')!important; background-position: 0px -1em!important; background-size: 1em !important; }
 .paldea .dexEntry .pokesprite.tauros img, .pokesprite.paldea.tauros img { background-image:url('../img/pokemon-paldea-large.png')!important; background-position: 0px -0em!important; background-size: 1em !important; }

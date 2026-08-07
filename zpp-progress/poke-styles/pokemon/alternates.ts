@@ -22,6 +22,9 @@ var alternates: Alternate[] = [
     new Alternate("Raichu", "MegaY"),
     new Alternate("Mewtwo", "MegaX"),
     new Alternate("Mewtwo", "MegaY"),
+    new Alternate("Absol", "MegaZ"),
+    new Alternate("Carchacrok", "MegaZ"),
+    new Alternate("Lucario", "MegaZ"),
 
     new Alternate("Tauros", "Paldea-Flamboyant"),
     new Alternate("Tauros", "Paldea-Aquatique"),

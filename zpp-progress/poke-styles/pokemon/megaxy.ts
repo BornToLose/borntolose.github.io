@@ -28,7 +28,7 @@ addStyles(["Dracaufeu"], f => {
 addStyles(["Dracaufeu"], f => {
     const clean = dexClean(f).replace(/ /g, '');
     const path = `./img/alternate/dracaufeu-megay.png`;
-    return `.mega .pokesprite.dracaufeu-42 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
+    return `.mega .pokesprite.dracaufeu-45 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
 });
 addStyles(["Raichu"], f => {
     const clean = dexClean(f).replace(/ /g, '');
@@ -48,5 +48,20 @@ addStyles(["Mewtwo"], f => {
 addStyles(["Mewtwo"], f => {
     const clean = dexClean(f).replace(/ /g, '');
     const path = `./img/alternate/mewtwo-megay.png`;
-    return `.mega .pokesprite.mewtwo-71 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
+    return `.mega .pokesprite.mewtwo-74 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
+});
+addStyles(["Absol"], f => {
+    const clean = dexClean(f).replace(/ /g, '');
+    const path = `./img/alternate/absol-megaz.png`;
+    return `.mega .pokesprite.absol-36 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
+});
+addStyles(["Carchacrok"], f => {
+    const clean = dexClean(f).replace(/ /g, '');
+    const path = `./img/alternate/carchacrok-megaz.png`;
+    return `.mega .pokesprite.carchacrok-32 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
+});
+addStyles(["Lucario"], f => {
+    const clean = dexClean(f).replace(/ /g, '');
+    const path = `./img/alternate/lucario-megaz.png`;
+    return `.mega .pokesprite.lucario-38 img { background-image:url(".${path}")!important; background-position: 0px -0em!important; background-size: 1em!important; background-position: center!important; }`;
 });
