@@ -33,12 +33,12 @@ ZEvent2022.Runs.push(
 			
             <TPP.HallOfFame>{
                 Group: "Hall of Fame", Name: "Panthéon", Time: "2022-09-12T02:31:44Z", IDNo: "20543", Party: [
-                    { Pokemon: "Lapras", Nickname: "FLOP", Level: 48, Gender: "Male", Number: 131, IDNo: "20543" },
-                    { Pokemon: "Snorlax", Nickname: "BIDE", Level: 36, Gender: "Male", Number: 143, IDNo: "20543" },
-                    { Pokemon: "Venusaur", Nickname: "FLORIZARRE", Level: 54, Gender: "Male", Number: 3, IDNo: "20543" },
-                    { Pokemon: "Jolteon", Nickname: "A", Level: 54, Gender: "Female", Number: 135, IDNo: "20543" },
-                    { Pokemon: "Pidgeot", Nickname: "AAAAAAAA", Level: 52, Gender: "Male", Number: 18, IDNo: "20543" },
-                    { Pokemon: "Sandshrew", Nickname: "SABELETTE", Level: 12, Gender: "Male", Number: 27, IDNo: "20543" },
+                    { Pokemon: "Lokhlass", Nickname: "FLOP", Level: 48, Gender: "Male", Number: 131, IDNo: "20543" },
+                    { Pokemon: "Ronflex", Nickname: "BIDE", Level: 36, Gender: "Male", Number: 143, IDNo: "20543" },
+                    { Pokemon: "Florizarre", Nickname: "FLORIZARRE", Level: 54, Gender: "Male", Number: 3, IDNo: "20543" },
+                    { Pokemon: "Voltali", Nickname: "A", Level: 54, Gender: "Female", Number: 135, IDNo: "20543" },
+                    { Pokemon: "Roucarnage", Nickname: "AAAAAAAA", Level: 52, Gender: "Male", Number: 18, IDNo: "20543" },
+                    { Pokemon: "Sabelette", Nickname: "SABELETTE", Level: 12, Gender: "Male", Number: 27, IDNo: "20543" },
                 ],
                 Image: "img/ribbons/champion.png"
             },

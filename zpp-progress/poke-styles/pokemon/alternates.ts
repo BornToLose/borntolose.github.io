@@ -15,123 +15,98 @@ class Alternate {
 }
 
 var alternates: Alternate[] = [
-    new Alternate("articuno", "Ultra", true),
-    new Alternate("blastoise", "Ultra", true),
-    new Alternate("bulbasaur", "Ultra", true),
-    new Alternate("charizard", "Ultra", true),
-    new Alternate("charmander", "Ultra", true),
-    new Alternate("charmeleon", "Ultra", true),
-    new Alternate("ho-oh", "Ultra", true),
-    new Alternate("ivysaur", "Ultra", true),
-    new Alternate("lugia", "Ultra", true),
-    new Alternate("moltres", "Ultra", true),
-    new Alternate("squirtle", "Ultra", true),
-    new Alternate("venusaur", "Ultra", true),
-    new Alternate("wartortle", "Ultra", true),
-    new Alternate("zapdos", "Ultra", true),
 
-    // new Alternate("jellicent", "Female"),
+    new Alternate("Dracaufeu", "MegaX"),
+    new Alternate("Dracaufeu", "MegaY"),
+    new Alternate("Raichu", "MegaX"),
+    new Alternate("Raichu", "MegaY"),
+    new Alternate("Mewtwo", "MegaX"),
+    new Alternate("Mewtwo", "MegaY"),
 
-    // new Alternate("azumarill", "Shiny"),
-    // new Alternate("xatu", "Shiny"),
-    // new Alternate("plusle", "Shiny"),
-    // new Alternate("gyarados", "Shiny"),
-    // new Alternate("skiploom", "Shiny"),
-    // new Alternate("jumpluff", "Shiny"),
+    new Alternate("Tauros", "Paldea-Flamboyant"),
+    new Alternate("Tauros", "Paldea-Aquatique"),
 
-    new Alternate("charizard", "MegaX"),
-    new Alternate("charizard", "MegaY"),
-    new Alternate("mewtwo", "MegaX"),
-    new Alternate("mewtwo", "MegaY"),
+    new Alternate("Zarbi", "T"),
 
-    new Alternate("tauros", "Paldean-Blaze"),
-    new Alternate("tauros", "Paldean-Aqua"),
+	new Alternate("Kyogre", "Primo"),
+    new Alternate("Groudon", "Primo"),
 
-    new Alternate("unown", "T"),
+    new Alternate("Deoxys", "Attaque"),
+    new Alternate("Deoxys", "Defense"),
 
-	new Alternate("kyogre", "Primal"),
-    new Alternate("groudon", "Primal"),
+    new Alternate("Sancoki", "Orient"),
+    new Alternate("Tritosor", "Orient"),
 
-    new Alternate("deoxys", "Attack"),
-    new Alternate("deoxys", "Defense"),
+    new Alternate("Motisma", "Helice"),
+    new Alternate("Motisma", "Froid"),
+    new Alternate("Motisma", "Chaleur"),
+    new Alternate("Motisma", "Tonte"),
+    new Alternate("Motisma", "Lavage"),
 
-    new Alternate("shellos", "East"),
-    new Alternate("gastrodon", "East"),
+    new Alternate("Dialga", "Origine"),
 
-    new Alternate("rotom", "Fan"),
-    new Alternate("rotom", "Frost"),
-    new Alternate("rotom", "Heat"),
-    new Alternate("rotom", "Mow"),
-    new Alternate("rotom", "Wash"),
+    new Alternate("Arceus", "Insecte"),
+    new Alternate("Arceus", "Feu"),
 
-    new Alternate("dialga", "Origin"),
+    new Alternate("Bargantua", "Bleu"),
+    new Alternate("Bargantua", "Blanc"),
 
-    new Alternate("arceus", "Bug"),
-    new Alternate("arceus", "Fire"),
+    new Alternate("Vivaldaim", "Ete"),
+    new Alternate("Vivaldaim", "Automne"),
+    new Alternate("Vivaldaim", "Hiver"),
 
-    new Alternate("basculin", "Blue"),
-    new Alternate("basculin", "White"),
+    new Alternate("Haydaim", "Ete"),
+    new Alternate("Haydaim", "Automne"),
+    new Alternate("Haydaim", "Hiver"),
 
-    new Alternate("deerling", "Summer"),
-    new Alternate("deerling", "Autumn"),
-    new Alternate("deerling", "Winter"),
+    new Alternate("Boréas", "Totemique"),
+    new Alternate("Fulguris", "Totemique"),
+    new Alternate("Démétéros", "Totemique"),
 
-    new Alternate("sawsbuck", "Summer"),
-    new Alternate("sawsbuck", "Autumn"),
-    new Alternate("sawsbuck", "Winter"),
+    new Alternate("Kyurem", "Blanc"),
+    new Alternate("Kyurem", "Noir"),
 
-    new Alternate("tornadus", "Therian"),
-    new Alternate("thundurus", "Therian"),
-    new Alternate("landorus", "Therian"),
+    new Alternate("Keldeo", "Decide"),
 
-    new Alternate("kyurem", "White"),
-    new Alternate("kyurem", "Black"),
+    new Alternate("Prismillon", "Metropole"),
 
-    new Alternate("keldeo", "Resolute"),
+    new Alternate("Floette", "Eternelle"),
 
-    new Alternate("vivillon", "Modern"),
+    new Alternate("Couafarel", "Kabuki"),
 
-    new Alternate("Floette", "Eternal"),
+    new Alternate("Banshitrouye", "Mini"),
+    new Alternate("Banshitrouye", "Maxi"),
+    new Alternate("Banshitrouye", "Ultra"),
 
-    new Alternate("furfrou", "Kabuki"),
+    new Alternate("Zygarde", "Pourcent10"),
 
-    new Alternate("gourgeist", "Small"),
-    new Alternate("gourgeist", "Large"),
-    new Alternate("gourgeist", "Super"),
+    new Alternate("Lycanroc", "Minuit"),
 
-    new Alternate("zygarde", "percent10"),
+    new Alternate("Plumeline", "Pom-Pom"),
+    new Alternate("Plumeline", "Hula"),
+    new Alternate("Plumeline", "Buyo"),
 
-    new Alternate("lycanroc", "Midnight"),
-
-    new Alternate("oricorio", "Pom-Pom"),
-    new Alternate("oricorio", "Pa-u"),
-    new Alternate("oricorio", "Sensu"),
-
-    new Alternate("Necrozma", "DuskMane"),
-    new Alternate("Necrozma", "DawnWings"),
+    new Alternate("Necrozma", "Couchant"),
+    new Alternate("Necrozma", "Aurore"),
     new Alternate("Necrozma", "Ultra"),
 
-    new Alternate("Toxtricity", "LowKey"),
+    new Alternate("Salarsen", "Grave"),
 
-    new Alternate("Alcremie", "Matcha-Ribbon"),
+    new Alternate("Charmilly", "Matcha-Ruban"),
 
-    new Alternate("Zacian", "Crowned"),
-    new Alternate("Zamazenta", "Crowned"),
+    new Alternate("Zacian", "Supreme"),
+    new Alternate("Zamazenta", "Supreme"),
 	
-    new Alternate("Ursaluna", "Bloodmoon"),
+    new Alternate("Ursaking", "Vermeille"),
 
-    new Alternate("Maushold", "Four"),
+    new Alternate("Famignol", "Quatre"),
 
-    new Alternate("Ogerpon", "Wellspring"),
-    new Alternate("Ogerpon", "Hearthflame"),
-    new Alternate("Ogerpon", "Cornerstone"),
+    new Alternate("Ogerpon", "Puits"),
+    new Alternate("Ogerpon", "Fourneau"),
+    new Alternate("Ogerpon", "Pierre"),
 	
-    new Alternate("Terapagos", "Terastal"),
-    new Alternate("Terapagos", "Stellar"),
-
-    new Alternate("zoroark", "Eliza"),
-
-    new Alternate("ub-queen", "Ultra"),
+    new Alternate("Terapagos", "Teracristal"),
+    new Alternate("Terapagos", "Stellaire"),
 
 ];
 

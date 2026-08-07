@@ -9,7 +9,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Volcarona",
+                "name":"Pyrax",
                 "national_dex":637,
                 "type1":"Bug",
                 "type2":"Fire",
@@ -97,7 +97,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Rotom",
+                "name":"Motisma",
                 "national_dex":479,
                 "type1":"Electric",
                 "type2":"Grass",
@@ -184,7 +184,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Swanna",
+                "name":"Lakmécygne",
                 "national_dex":581,
                 "type1":"Water",
                 "type2":"Flying",
@@ -359,7 +359,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Krookodile",
+                "name":"Crocorible",
                 "national_dex":553,
                 "type1":"Ground",
                 "type2":"Dark",
@@ -447,7 +447,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Emboar",
+                "name":"Roitiflam",
                 "national_dex":500,
                 "type1":"Fire",
                 "type2":"Fighting",

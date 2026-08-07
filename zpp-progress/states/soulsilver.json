@@ -9,7 +9,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Feraligatr",
+                "name":"Aligatueur",
                 "national_dex":160,
                 "type1":"Water",
                 "type2":"Water",
@@ -93,7 +93,7 @@
             "language":"French",
             "shiny":true,
             "species":{
-                "name":"Gyarados",
+                "name":"Léviator",
                 "national_dex":130,
                 "type1":"Water",
                 "type2":"Flying",
@@ -177,7 +177,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Fearow",
+                "name":"Rapasdepic",
                 "national_dex":22,
                 "type1":"Normal",
                 "type2":"Flying",
@@ -424,7 +424,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Quagsire",
+                "name":"Maraiste",
                 "national_dex":195,
                 "type1":"Water",
                 "type2":"Ground",

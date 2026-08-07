@@ -16,7 +16,7 @@ ZEvent2025.Runs.push(
 		AlwaysShowHOF,
         Events: [
 		
-		{ Name: "Tepig", Time: "0d00h06m38s", Group: "Pokemon" }, 
+		{ Name: "Gruikui", Time: "0d00h06m38s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
@@ -33,7 +33,7 @@ ZEvent2025.Runs.push(
 			Time: "0d00h54m08s", Attempts: 1
 		},
 		
-		{ Name: "Pansage", Time: "0d01h36m40s", Group: "Pokemon" }, 
+		{ Name: "Feuillajou", Time: "0d01h36m40s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
@@ -50,8 +50,8 @@ ZEvent2025.Runs.push(
 			Time: "0d03h33m04s", Attempts: 1
 		},
 		
-		{ Name: "Blitzle", Time: "0d03h52m02s", Group: "Pokemon" }, 
-		{ Name: "Pignite", Time: "0d04h23m23s", Group: "Pokemon" }, 
+		{ Name: "Zébibron", Time: "0d03h52m02s", Group: "Pokemon" }, 
+		{ Name: "Grotichon", Time: "0d04h23m23s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
@@ -63,9 +63,9 @@ ZEvent2025.Runs.push(
 			Time: "0d05h58m54s", Attempts: 2 
 		},
 		
-		{ Name: "Sandile", Time: "0d10h14m37s", Group: "Pokemon" }, 
-		{ Name: "Scraggy", Time: "0d11h55m35s", Group: "Pokemon" }, 
-		{ Name: "Darumaka", Time: "0d13h41m17s", Group: "Pokemon" }, 
+		{ Name: "Mascaïman", Time: "0d10h14m37s", Group: "Pokemon" }, 
+		{ Name: "Baggiguane", Time: "0d11h55m35s", Group: "Pokemon" }, 
+		{ Name: "Darumarond", Time: "0d13h41m17s", Group: "Pokemon" }, 
 		
 		{ 
 			Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", 
@@ -97,22 +97,22 @@ ZEvent2025.Runs.push(
 			Time: "1d00h07m05s", Attempts: 1
 		},
 		
-		{ Name: "Krokorok", Time: "1d00h18m19s", Group: "Pokemon" },
+		{ Name: "Escroco", Time: "1d00h18m19s", Group: "Pokemon" },
 		
 		{ 
 			Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", 
 			Time: "1d02h07m28s", Attempts: 2
 		},
 		
-		{ Name: "Ducklett", Time: "1d03h09m07s", Group: "Pokemon" },
+		{ Name: "Couaneton", Time: "1d03h09m07s", Group: "Pokemon" },
 		
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
 			Time: "1d03h46m31s", Attempts: 1
 		},
 		
-		{ Name: "Zebstrika", Time: "1d05h41m16s", Group: "Pokemon" },
-		{ Name: "Emboar", Time: "1d06h27m24s", Group: "Pokemon" },
+		{ Name: "Zéblitz", Time: "1d05h41m16s", Group: "Pokemon" },
+		{ Name: "Roitiflam", Time: "1d06h27m24s", Group: "Pokemon" },
 		
 		{
 			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
@@ -129,21 +129,21 @@ ZEvent2025.Runs.push(
 			Time: "1d11h16m50s", Attempts: 1
 		},
 		
-		{ Name: "Swanna", Time: "1d14h20m06s", Group: "Pokemon" },
+		{ Name: "Lakmécygne", Time: "1d14h20m06s", Group: "Pokemon" },
 		
 		{ 
 			Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", 
 			Time: "1d14h34m36s", Attempts: 1
 		},
 		
-		{ Name: "Golett", Time: "1d15h07m52s", Group: "Pokemon" },
+		{ Name: "Gringolem", Time: "1d15h07m52s", Group: "Pokemon" },
 		
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
 			Time: "1d22h49m03s", Attempts: 1
 		},
 		
-		{ Name: "Krookodile", Time: "1d23h42m47s", Group: "Pokemon" },
+		{ Name: "Crocorible", Time: "1d23h42m47s", Group: "Pokemon" },
 		
 		{ 
 			Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", 

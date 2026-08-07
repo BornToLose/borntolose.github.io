@@ -16,7 +16,7 @@ ZEvent2024.Runs.push(
 		AlwaysShowHOF,
         Events: [
 		
-			{ Name: "Totodile", Time: "0d00h23m53s", Group: "Pokemon" },
+			{ Name: "Kaiminus", Time: "0d00h23m53s", Group: "Pokemon" },
 			
 			{
                 Group: "Trainers", Name: "???", Image: "img/trainers/heartgold/silver.png",
@@ -28,7 +28,7 @@ ZEvent2024.Runs.push(
                 Time: "0d03h48m45s", Attempts: 1
             },
 			
-			{ Name: "Croconaw", Time: "0d05h09m06s", Group: "Pokemon" },
+			{ Name: "Crocrodil", Time: "0d05h09m06s", Group: "Pokemon" },
 			
 			{
                 Group: "Trainers", Name: "Lance", Image: "img/trainers/heartgold/proton.png",
@@ -47,9 +47,9 @@ ZEvent2024.Runs.push(
 			
 			{ Name: "Paras", Time: "0d06h31m04s", Group: "Pokemon" },
 			{ Name: "Togepi", Time: "0d08h29m50s", Group: "Pokemon" },
-			{ Name: "Drowzee", Time: "0d08h38m59s", Group: "Pokemon" },
-			{ Name: "NidoranF", Time: "0d08h52m52s", Group: "Pokemon" },
-			{ Name: "Spearow", Time: "0d09h08m01s", Group: "Pokemon" },
+			{ Name: "Soporifik", Time: "0d08h38m59s", Group: "Pokemon" },
+			{ Name: "Nidoran♀", Time: "0d08h52m52s", Group: "Pokemon" },
+			{ Name: "Piafabec", Time: "0d09h08m01s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Plaine", Image: "img/badges/plain.png",
@@ -61,15 +61,15 @@ ZEvent2024.Runs.push(
                 Time: "0d10h38m28s", Attempts: 1
             },
 			
-			{ Name: "Feraligatr", Time: "0d11h06m36s", Group: "Pokemon" },
+			{ Name: "Aligatueur", Time: "0d11h06m36s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Brume", Image: "img/badges/fog.png",
                 Time: "0d11h31m37s", Attempts: 1
             },
 			
-			{ Name: "Fearow", Time: "0d12h37m19s", Group: "Pokemon" },
-			{ Name: "Shuckle", Time: "0d14h15m57s", Group: "Pokemon" },
+			{ Name: "Rapasdepic", Time: "0d12h37m19s", Group: "Pokemon" },
+			{ Name: "Caratroc", Time: "0d14h15m57s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Choc", Image: "img/badges/storm.png",
@@ -83,7 +83,7 @@ ZEvent2024.Runs.push(
                 Time: "0d15h58m22s", Attempts: 3
             },
 			
-			{ Name: "Gyarados", Time: "0d17h52m07s", Group: "Pokemon" },
+			{ Name: "Léviator", Time: "0d17h52m07s", Group: "Pokemon" },
 			{ Name: "Nidorina", Time: "0d19h53m28s", Group: "Pokemon" },
 			
 			{
@@ -162,9 +162,9 @@ ZEvent2024.Runs.push(
 
             <TPP.HallOfFame>{
                 Group: "Hall of Fame", Name: "Panthéon", Time: "01d17h48m10s", Attempts: 7, IDNo: "30858", Party: [
-                    { Pokemon: "Gyarados", Nickname: "MICHEL", Level: 51, Gender: "Female", Met: "Lac Colère", OT: "AAP", Shiny: true },
-                    { Pokemon: "Feraligatr", Nickname: "......", Level: 60, Gender: "Male", Met: "Bourg Geon", OT: "AAP" },
-                    { Pokemon: "Fearow", Nickname: "Piou Piou", Level: 32, Gender: "Female", Met: "Route 35", OT: "Vijay" },
+                    { Pokemon: "Léviator", Nickname: "MICHEL", Level: 51, Gender: "Female", Met: "Lac Colère", OT: "AAP", Shiny: true },
+                    { Pokemon: "Aligatueur", Nickname: "......", Level: 60, Gender: "Male", Met: "Bourg Geon", OT: "AAP" },
+                    { Pokemon: "Rapasdepic", Nickname: "Piou Piou", Level: 32, Gender: "Female", Met: "Route 35", OT: "Vijay" },
                     { Pokemon: "Lugia", Nickname: "MV", Level: 49, Met: "Tourb'Îles", OT: "AAP" },
 					
                 ],
@@ -185,7 +185,7 @@ ZEvent2024.Runs.push(
                 Time: "01d22h06m09s", Attempts: 1
             },
 			
-			{ Name: "Quagsire", Time: "1d23h06m26s", Group: "Pokemon" },
+			{ Name: "Maraiste", Time: "1d23h06m26s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Cascade", Image: "img/badges/cascade.png",

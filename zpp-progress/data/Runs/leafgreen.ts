@@ -18,27 +18,27 @@ ZEvent2022.Runs.push(
 		
 			// Following timestamps are estimates due to lack of VOD
 		
-			{ Name: "Bulbasaur", Time: "0d00h08m56s", Group: "Pokemon" }, 
+			{ Name: "Bulbizarre", Time: "0d00h08m56s", Group: "Pokemon" }, 
 			
 			{ Name: "Rattata", Time: "0d00h57m", Group: "Pokemon" }, // Real time unknown, between 0h55m15s and 2h05m14s
-			{ Name: "Pidgey", Time: "0d01h04m", Group: "Pokemon" }, // Real time unknown, between 0h55m15s and 1h09m35s
+			{ Name: "Roucool", Time: "0d01h04m", Group: "Pokemon" }, // Real time unknown, between 0h55m15s and 1h09m35s
 			
 			{
                 Group: "Badges", Name: "Badge Roche", Image: "img/badges/boulder.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
                 Time: "0d02h36m09s", Attempts: 0 // Attempt number uncertain due to lack of VOD
             },
 			
-			{ Name: "Ivysaur", Time: "0d04h06m44s", Group: "Pokemon" },
+			{ Name: "Herbizarre", Time: "0d04h06m44s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Cascade", Image: "img/badges/cascade.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
                 Time: "0d09h30m17s", Attempts: 1 // Estimate due to lack of VOD
             },
 			
-			{ Name: "Sandshrew", Time: "0d10h08m10s", Group: "Pokemon" },
-			{ Name: "Spearow", Time: "0d10h09m03s", Group: "Pokemon" },
+			{ Name: "Sabelette", Time: "0d10h08m10s", Group: "Pokemon" },
+			{ Name: "Piafabec", Time: "0d10h09m03s", Group: "Pokemon" },
 			
-			{ Name: "Pidgeotto", Time: "0d10h55m", Group: "Pokemon" }, // Estimate taken from GDoc
+			{ Name: "Roucoups", Time: "0d10h55m", Group: "Pokemon" }, // Estimate taken from GDoc
 			
 			{
                 Group: "Trainers", Name: "BAAAIJR", Image: "img/trainers/firered/blue.png",
@@ -55,21 +55,21 @@ ZEvent2022.Runs.push(
                 Time: "0d14h58m", Attempts: 1 // Estimate taken from GDoc
             },
 			
-			{ Name: "Diglett", Time: "0d15h17m", Group: "Pokemon" }, // Estimate taken from GDoc
+			{ Name: "Taupiqueur", Time: "0d15h17m", Group: "Pokemon" }, // Estimate taken from GDoc
 			
 			// Following timestamps are estimates due to lack of preceding VODs and unknown length of blackout
 			
-			{ Name: "Geodude", Time: "0d18h54m50s", Group: "Pokemon" },
-			{ Name: "Zubat", Time: "0d18h59m14s", Group: "Pokemon" },
-			{ Name: "Venusaur", Time: "0d20h17m15s", Group: "Pokemon" },
+			{ Name: "Racaillou", Time: "0d18h54m50s", Group: "Pokemon" },
+			{ Name: "Nosferapti", Time: "0d18h59m14s", Group: "Pokemon" },
+			{ Name: "Florizarre", Time: "0d20h17m15s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Prisme", Image: "img/badges/rainbow.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
                 Time: "0d20h48m16s", Attempts: 2
             },
 			
-			{ Name: "Eevee", Time: "0d21h16m31s", Group: "Pokemon" },
-			{ Name: "Jolteon", Time: "0d21h41m08s", Group: "Pokemon" },
+			{ Name: "Évoli", Time: "0d21h16m31s", Group: "Pokemon" },
+			{ Name: "Voltali", Time: "0d21h41m08s", Group: "Pokemon" },
 			
 			{
                 Group: "Trainers", Name: "Giovanni", Image: "img/trainers/firered/giovanni.png",
@@ -81,22 +81,22 @@ ZEvent2022.Runs.push(
                 Time: "1d00h40m31s", Attempts: 1
             },
 			
-			{ Name: "Pidgeot", Time: "1d05h04m44s", Group: "Pokemon" },
-			{ Name: "Bellsprout", Time: "1d05h51m14s", Group: "Pokemon" },
+			{ Name: "Roucarnage", Time: "1d05h04m44s", Group: "Pokemon" },
+			{ Name: "Chétiflor", Time: "1d05h51m14s", Group: "Pokemon" },
 			
 			{
                 Group: "Trainers", Name: "BAAAIJR", Image: "img/trainers/firered/blue.png",
                 Time: "1d10h34m25s", Attempts: 1
             },
 			
-			{ Name: "Lapras", Time: "1d10h37m06s", Group: "Pokemon" },
+			{ Name: "Lokhlass", Time: "1d10h37m06s", Group: "Pokemon" },
 			
 			{
                 Group: "Trainers", Name: "Giovanni", Image: "img/trainers/firered/giovanni.png",
                 Time: "1d10h58m33s", Attempts: 1
             },
 			
-			{ Name: "Snorlax", Time: "1d11h18m05s", Group: "Pokemon" },
+			{ Name: "Ronflex", Time: "1d11h18m05s", Group: "Pokemon" },
 			
             {
                 Group: "Badges", Name: "Badge Âme", Image: "img/badges/soul.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
@@ -108,7 +108,7 @@ ZEvent2022.Runs.push(
             },
 			
 			{ Name: "Nidorina", Time: "1d13h56m37s", Group: "Pokemon" },
-			{ Name: "NidoranF", Time: "1d14h11m13s", Group: "Pokemon" },
+			{ Name: "Nidoran♀", Time: "1d14h11m13s", Group: "Pokemon" },
 			{ Name: "Paras", Time: "1d14h14m20s", Group: "Pokemon" },
 			
             {
