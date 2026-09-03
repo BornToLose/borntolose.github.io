@@ -23,7 +23,7 @@ namespace TPP.Controllers {
                         <span>Hall of Fame</span>
                     </a>
                     <a href="pokedex.html">
-                        <TPP.Display.Elements.PokeSprite pokemon="Bulbasaur" />
+                        <TPP.Display.Elements.PokeSprite pokemon="Bulbizarre" />
                         <span>Global Pokédex</span>
                     </a>
                 </div>
