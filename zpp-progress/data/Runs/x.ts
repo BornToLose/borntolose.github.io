@@ -23,7 +23,7 @@ ZEvent2026.Runs.push(
 		
 		{
 			Group: "Badges", Name: "Badge Coléoptère", Image: "img/badges/bug.png",
-			Time: "2023-04-09T04:11:26.752Z", Attempts: 0
+			Time: "", Attempts: 2
 		},
 			
 		/*{
