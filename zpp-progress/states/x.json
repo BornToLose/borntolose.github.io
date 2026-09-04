@@ -5,16 +5,16 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Grenousse",
+            "name":"Croâporal",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Grenousse",
-                "national_dex":656,
+                "name":"Croâporal",
+                "national_dex":657,
                 "type1":"Water",
 				"evolutions":[
 					{
-						"level":16
+						"level":36
 					}
 				]
             },
@@ -114,6 +114,14 @@
                 {
                     "name":"Rugissement",
                     "type":"Normal"
+                },
+                {
+                    "name":"Vive-Attaque",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Picpic",
+                    "type":"Flying"
                 }
             ],
             "ivs":{
@@ -149,7 +157,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Cœur de Coq",
-            "level": 8,
+            "level": 10,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -408,10 +416,10 @@
         }
     ],
     "game":"X",
-    "caught":4,
+    "caught":6,
     "seen":"??",
     "name":"♂QQRYAQNN  E",
     "id":16871,
     "money":0,
-	"badges":0
+	"badges":1
 }

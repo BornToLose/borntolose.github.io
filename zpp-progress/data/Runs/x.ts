@@ -21,11 +21,13 @@ ZEvent2026.Runs.push(
 		{ Name: "Lépidonille", Time: "0d00h47m02s", Group: "Pokemon" }, 
 		{ Name: "Feuillajou", Time: "0d00h54m17s", Group: "Pokemon" }, 
 		{ Name: "Keunotor", Time: "0d03h06m27s", Group: "Pokemon" }, 
+		{ Name: "Croâporal", Time: "0d04h00m38s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Badges", Name: "Badge Coléoptère", Image: "img/badges/bug.png",
-			Time: "", Attempts: 2
+			Time: "0d04h00m48s", Attempts: 2
 		},
+		
 			
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
