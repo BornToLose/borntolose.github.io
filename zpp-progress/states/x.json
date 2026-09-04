@@ -63,7 +63,7 @@
                 "feel":0
             },
 			"met":{
-                "area_id":1,
+                "area_id":10,
                 "area_name":"Quarellis",
                 "level":5,
                 "game":"X",
@@ -142,7 +142,7 @@
                 "feel":0
             },
 			"met":{
-                "area_id":0,
+                "area_id":8,
                 "area_name":"Route 1",
                 "level":3,
                 "game":"X",
@@ -220,7 +220,7 @@
                 "feel":0
             },
 			"met":{
-                "area_id":0,
+                "area_id":14,
                 "area_name":"Forêt de Neuvartault",
                 "level":3,
                 "game":"X",
@@ -242,10 +242,95 @@
             },
             "nature":"???",
             "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":0
+            },
+            "name":"FHAR",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Feuillajou",
+                "national_dex":511,
+                "type1":"Grass",
+				"evolutions":[
+					{
+						"required_item": {
+							"id": 85,
+							"name": "Pierre Plante"
+						}
+					}
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Griffe",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Camaraderie",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Groz'Yeux",
+                    "type":"Normal"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":14,
+                "area_name":"Forêt de Neuvartault",
+                "level":4,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"???",
+            "level": 4,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
         }
     ],
     "game":"X",
-    "caught":3,
+    "caught":4,
     "seen":"??",
     "name":"♂QQRYAQNN  E",
     "id":0,
