@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 16,
+            "level": 17,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -239,7 +239,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 7,
+            "level": 8,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -289,6 +289,10 @@
                 {
                     "name":"Groz'Yeux",
                     "type":"Normal"
+                },
+                {
+                    "name":"Léchouille",
+                    "type":"Ghost"
                 }
             ],
             "ivs":{
@@ -324,7 +328,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 7,
+            "level": 8,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -367,6 +371,10 @@
                 {
                     "name":"Rugissement",
                     "type":"Normal"
+                },
+                {
+                    "name":"Boul'Armure",
+                    "type":"Normal"
                 }
             ],
             "ivs":{
@@ -402,7 +410,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 8,
+            "level": 9,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -417,10 +425,96 @@
             },
             "nature":"???",
             "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"AAVÔ",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Bulbizarre",
+                "national_dex":399,
+                "type1":"Normal",
+				"evolutions":[
+					{
+						"level": 16
+					}
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Charge",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Rugissement",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Vampigraine",
+                    "type":"Grass"
+                },
+                {
+                    "name":"Fouet Lianes",
+                    "type":"Grass"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":22,
+                "area_name":"Illumis",
+                "level":10,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Engrais",
+            "level": 10,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
         }
     ],
     "game":"X",
-    "caught":6,
+    "caught":7,
     "seen":"??",
     "name":"♂QQRYAQNN  E",
     "id":16871,

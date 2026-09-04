@@ -28,6 +28,12 @@ ZEvent2026.Runs.push(
 			Time: "0d04h00m48s", Attempts: 2
 		},
 		
+		{
+			Group: "Trainers", Name: "Prof. Platane", Image: "img/trainers/x/sycamore.png",
+			Time: "0d04h47m41s", Attempts: 1
+		},
+		
+		{ Name: "Bulbizarre", Time: "0d04h48m11s", Group: "Pokemon" }, 
 			
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
