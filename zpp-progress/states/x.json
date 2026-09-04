@@ -21,8 +21,8 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Écras'Face",
-                    "type":"Normal"
+                    "name":"Léchouille",
+                    "type":"Ghost"
                 },
                 {
                     "name":"Rugissement",
@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 9,
+            "level": 12,
             "stats":{
                 "hp":"??",
                 "attack":"??",
