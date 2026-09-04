@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 17,
+            "level": 18,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -157,7 +157,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Cœur de Coq",
-            "level": 13,
+            "level": 15,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -182,12 +182,12 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Lépidonille",
-                "national_dex":664,
+                "name":"Pérégrain",
+                "national_dex":665,
                 "type1":"Bug",
 				"evolutions":[
 					{
-						"level":9
+						"level":12
 					}
 				]
             },
@@ -239,7 +239,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 8,
+            "level": 10,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -328,7 +328,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 8,
+            "level": 10,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -410,7 +410,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 9,
+            "level": 10,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -496,7 +496,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 10,
+            "level": 12,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -514,10 +514,10 @@
         }
     ],
     "game":"X",
-    "caught":7,
-    "seen":"??",
+    "caught":8,
+    "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
-    "money":0,
+    "money":"??????",
 	"badges":1
 }

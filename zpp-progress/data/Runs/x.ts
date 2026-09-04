@@ -34,6 +34,12 @@ ZEvent2026.Runs.push(
 		},
 		
 		{ Name: "Bulbizarre", Time: "0d04h48m11s", Group: "Pokemon" }, 
+		{ Name: "Pérégrain", Time: "0d05h35m30s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Trainers", Name: "Tierno", Image: "img/trainers/x/tierno.png",
+			Time: "0d05h39m28s", Attempts: 1
+		},
 			
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
