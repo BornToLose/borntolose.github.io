@@ -2,7 +2,7 @@
 ZEvent2026.Runs.push(
     {
         RunName: "X",
-        ColorPrimary: "#43b0b3",
+        ColorPrimary: "#1d70b4",
         ColorSecondary: "#03619f",
         StartDate: "2026-09-04T15:57:52Z",
         Duration: "52h",
@@ -16,10 +16,11 @@ ZEvent2026.Runs.push(
 		AlwaysShowHOF,
         Events: [
 		
-		{ Name: "Grenousse", Time: "0d00h16m19s", Group: "Pokemon" }, 
-		{ Name: "Passerouge", Time: "0d00h34m05s", Group: "Pokemon" }, 
-		{ Name: "Lépidonille", Time: "0d00h49m17s", Group: "Pokemon" }, 
-		{ Name: "Feuillajou", Time: "0d00h56m32s", Group: "Pokemon" }, 
+		{ Name: "Grenousse", Time: "0d00h14m04s", Group: "Pokemon" }, 
+		{ Name: "Passerouge", Time: "0d00h31m55s", Group: "Pokemon" }, 
+		{ Name: "Lépidonille", Time: "0d00h47m02s", Group: "Pokemon" }, 
+		{ Name: "Feuillajou", Time: "0d00h54m17s", Group: "Pokemon" }, 
+		{ Name: "Keunotor", Time: "0d03h06m27s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Badges", Name: "Badge Coléoptère", Image: "img/badges/bug.png",

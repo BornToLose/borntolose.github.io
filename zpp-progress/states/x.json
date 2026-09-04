@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 14,
+            "level": 15,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -149,7 +149,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Cœur de Coq",
-            "level": 5,
+            "level": 8,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -322,6 +322,84 @@
                 "speed":"???"
             },
             "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"Keunotor",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Keunotor",
+                "national_dex":399,
+                "type1":"Normal",
+				"evolutions":[
+					{
+						"level": 15
+					}
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Charge",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Rugissement",
+                    "type":"Normal"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":102,
+                "area_name":"Route 22",
+                "level":6,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"???",
+            "level": 6,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Female",
             "experience":{
                 "current":"??"
             },
