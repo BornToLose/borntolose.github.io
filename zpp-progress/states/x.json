@@ -148,8 +148,8 @@
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"???",
-            "level": 3,
+            "ability":"Cœur de Coq",
+            "level": 5,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -311,7 +311,7 @@
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"???",
+            "ability":"Gloutonnerie",
             "level": 4,
             "stats":{
                 "hp":"???",
