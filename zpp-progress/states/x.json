@@ -157,7 +157,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Cœur de Coq",
-            "level": 15,
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -241,7 +241,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 12,
+            "level": 14,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -330,7 +330,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 12,
+            "level": 13,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -412,7 +412,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 12,
+            "level": 13,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -449,7 +449,7 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Charge",
+                    "name":"Bélier",
                     "type":"Normal"
                 },
                 {
@@ -498,7 +498,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 14,
+            "level": 15,
             "stats":{
                 "hp":"???",
                 "attack":"???",
