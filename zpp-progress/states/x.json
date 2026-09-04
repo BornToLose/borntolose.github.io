@@ -95,21 +95,21 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Passerouge",
-                "national_dex":661,
-                "type1":"Normal",
+                "name":"Braisillon",
+                "national_dex":662,
+                "type1":"Fire",
                 "type1":"Flying",
 				"evolutions":[
 					{
-						"level":17
+						"level":35
 					}
 				]
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Charge",
-                    "type":"Normal"
+                    "name":"Flammèche",
+                    "type":"Fire"
                 },
                 {
                     "name":"Rugissement",
@@ -156,8 +156,8 @@
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"Cœur de Coq",
-            "level": 16,
+            "ability":"Corps Ardent",
+            "level": 18,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -437,12 +437,12 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Bulbizarre",
+                "name":"Herbizarre",
                 "national_dex":399,
                 "type1":"Normal",
 				"evolutions":[
 					{
-						"level": 16
+						"level": 32
 					}
 				]
             },
@@ -498,7 +498,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 15,
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -516,7 +516,7 @@
         }
     ],
     "game":"X",
-    "caught":9,
+    "caught":10,
     "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
