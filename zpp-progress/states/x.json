@@ -21,8 +21,8 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Léchouille",
-                    "type":"Ghost"
+                    "name":"Vibraqua",
+                    "type":"Water"
                 },
                 {
                     "name":"Rugissement",
@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 13,
+            "level": 14,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -227,7 +227,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 3,
+            "level": 5,
             "stats":{
                 "hp":"???",
                 "attack":"???",
