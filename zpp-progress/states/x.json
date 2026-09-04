@@ -21,12 +21,12 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Vibraqua",
-                    "type":"Water"
+                    "name":"Léchouille",
+                    "type":"Ghost"
                 },
                 {
-                    "name":"Rugissement",
-                    "type":"Normal"
+                    "name":"Vibraqua",
+                    "type":"Water"
                 },
                 {
                     "name":"Écume",
