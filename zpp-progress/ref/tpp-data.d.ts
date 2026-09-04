@@ -175,6 +175,7 @@ declare namespace TPP {
 declare var ZEvent2022: TPP.Collection;
 declare var ZEvent2024: TPP.Collection;
 declare var ZEvent2025: TPP.Collection;
+declare var ZEvent2026: TPP.Collection;
 declare var Sidegames: TPP.Collection;
 declare var QuickSidegames: TPP.Collection;
 declare var Revisits: TPP.Collection;
