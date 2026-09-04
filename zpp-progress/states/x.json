@@ -157,7 +157,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Cœur de Coq",
-            "level": 10,
+            "level": 13,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -200,6 +200,10 @@
                 {
                     "name":"Sécrétion",
                     "type":"Bug"
+                },
+                {
+                    "name":"Para-Spore",
+                    "type":"Grass"
                 }
             ],
             "ivs":{
@@ -235,7 +239,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 5,
+            "level": 7,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -320,7 +324,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 5,
+            "level": 7,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -398,7 +402,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 6,
+            "level": 8,
             "stats":{
                 "hp":"???",
                 "attack":"???",
