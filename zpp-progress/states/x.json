@@ -21,16 +21,16 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Léchouille",
-                    "type":"Ghost"
+                    "name":"Brouillard",
+                    "type":"Normal"
                 },
                 {
                     "name":"Vibraqua",
                     "type":"Water"
                 },
                 {
-                    "name":"Écume",
-                    "type":"Water"
+                    "name":"Léchouille",
+                    "type":"Ghost"
                 },
                 {
                     "name":"Vive-Attaque",
@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 18,
+            "level": 20,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -182,13 +182,11 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Pérégrain",
-                "national_dex":665,
+                "name":"Prismillon",
+                "national_dex":666,
                 "type1":"Bug",
+                "type2":"Flying",
 				"evolutions":[
-					{
-						"level":12
-					}
 				]
             },
             "friendship":"???",
@@ -204,6 +202,10 @@
                 {
                     "name":"Para-Spore",
                     "type":"Grass"
+                },
+                {
+                    "name":"Survinsecte",
+                    "type":"Bug"
                 }
             ],
             "ivs":{
@@ -239,7 +241,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 10,
+            "level": 12,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -328,7 +330,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 10,
+            "level": 12,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -410,7 +412,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 10,
+            "level": 12,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -496,7 +498,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 12,
+            "level": 14,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -514,7 +516,7 @@
         }
     ],
     "game":"X",
-    "caught":8,
+    "caught":9,
     "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,

@@ -41,6 +41,8 @@ ZEvent2026.Runs.push(
 			Time: "0d05h39m28s", Attempts: 1
 		},
 			
+		{ Name: "Prismillon", Time: "0d05h57m36s", Group: "Pokemon" }, 
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
