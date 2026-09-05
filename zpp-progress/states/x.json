@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 21,
+            "level": 22,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -192,8 +192,8 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Charge",
-                    "type":"Normal"
+                    "name":"Rafale Psy",
+                    "type":"Psychic"
                 },
                 {
                     "name":"Sécrétion",
@@ -241,7 +241,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 15,
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -281,7 +281,7 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Fouet Lianes",
+                    "name":"Vampigraine",
                     "type":"Grass"
                 },
                 {
@@ -330,7 +330,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 14,
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -351,24 +351,22 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Keunotor",
+            "name":"Castorno",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Keunotor",
+                "name":"Castorno",
                 "national_dex":399,
                 "type1":"Normal",
+                "type2":"Water",
 				"evolutions":[
-					{
-						"level": 15
-					}
 				]
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Charge",
-                    "type":"Normal"
+                    "name":"Pistolet à O",
+                    "type":"Water"
                 },
                 {
                     "name":"Rugissement",
@@ -416,7 +414,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 14,
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -502,7 +500,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 16,
+            "level": 18,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -520,7 +518,7 @@
         }
     ],
     "game":"X",
-    "caught":10,
+    "caught":12,
     "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,

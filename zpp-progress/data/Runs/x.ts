@@ -44,6 +44,12 @@ ZEvent2026.Runs.push(
 		{ Name: "Prismillon", Time: "0d05h57m36s", Group: "Pokemon" }, 
 		{ Name: "Braisillon", Time: "0d07h18m36s", Group: "Pokemon" }, 
 		{ Name: "Herbizarre", Time: "0d07h23m11s", Group: "Pokemon" }, 
+		{ Name: "Castorno", Time: "0d07h44m56s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Trainers", Name: "Tierno & Trovato", Image: "img/trainers/x/trevortierno.png",
+			Time: "0d07h54m03s", Attempts: 1
+		},
 		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
