@@ -138,15 +138,16 @@ ZEvent2026.Runs.push(
 			Time: "1d03h48m36s", Attempts: 1
 		},
 		
+		{
+			Group: "Badges", Name: "Badge Psychisme", Image: "img/badges/psychic.png",
+			Time: "1d04h21m52s", Attempts: 1
+		},
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
 		},
 		
-		{
-			Group: "Badges", Name: "Badge Psychisme", Image: "img/badges/psychic.png",
-			Time: "2023-04-12T14:23:27.695Z", Attempts: 0
-		},
 		{
 			Group: "Badges", Name: "Badge Iceberg", Image: "img/badges/iceberg.png",
 			Time: "2023-04-13T12:57:02.597Z", Attempts: 0
