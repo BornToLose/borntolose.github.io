@@ -106,15 +106,23 @@ ZEvent2026.Runs.push(
 		
 		{ Name: "Kraknoix", Time: "0d22h27m33s", Group: "Pokemon" }, 
 		
+		{
+			Group: "Badges", Name: "Badge Tension", Image: "img/badges/voltage.png",
+			Time: "0d23h15m44s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Serena", Image: "img/trainers/x/serena.png",
+			Time: "0d23h54m14s", Attempts: 1
+		},
+		
+		{ Name: "Maraiste", Time: "0d24h10m20s", Group: "Pokemon" }, 
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
 		},
 		
-		{
-			Group: "Badges", Name: "Badge Tension", Image: "img/badges/voltage.png",
-			Time: "2023-04-11T03:56:44.458Z", Attempts: 0
-		},
 		{
 			Group: "Badges", Name: "Badge Nymphe", Image: "img/badges/fairy.png",
 			Time: "2023-04-11T11:45:49.854Z", Attempts: 0
