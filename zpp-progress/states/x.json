@@ -98,7 +98,7 @@
                 "name":"Braisillon",
                 "national_dex":662,
                 "type1":"Fire",
-                "type1":"Flying",
+                "type2":"Flying",
 				"evolutions":[
 					{
 						"level":35
@@ -356,7 +356,8 @@
             "species":{
                 "name":"Herbizarre",
                 "national_dex":399,
-                "type1":"Normal",
+                "type1":"Grass",
+                "type2":"Poison",
 				"evolutions":[
 					{
 						"level": 32
