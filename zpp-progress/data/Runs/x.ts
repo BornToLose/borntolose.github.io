@@ -85,6 +85,7 @@ ZEvent2026.Runs.push(
 		},
 		
 		{ Name: "Lucario", Time: "0d19h26m32s", Group: "Pokemon" }, 
+		{ Name: "Flambusard", Time: "0d19h49m36s", Group: "Pokemon" }, 
 		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",

@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 34,
+            "level": 35,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -526,7 +526,7 @@
         }
     ],
     "game":"X",
-    "caught":19,
+    "caught":20,
     "seen":"92+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
