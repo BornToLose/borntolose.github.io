@@ -71,6 +71,7 @@ ZEvent2026.Runs.push(
 		},
 		
 		{ Name: "Pachirisu", Time: "0d16h43m12s", Group: "Pokemon" }, 
+		{ Name: "Escroco", Time: "0d17h58m38s", Group: "Pokemon" }, 
 		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",

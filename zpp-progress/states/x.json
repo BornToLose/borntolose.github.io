@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 31,
+            "level": 32,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 31,
+            "level": 32,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -245,7 +245,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Œil Composé",
-            "level": 26,
+            "level": 28,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -329,7 +329,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 26,
+            "level": 28,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -415,7 +415,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 31,
+            "level": 32,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -440,12 +440,12 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Mascaïman",
+                "name":"Escroco",
                 "national_dex":551,
                 "type1":"Ground",
 				"evolutions":[
 					{
-						"level": 29
+						"level": 40
 					}
 				]
             },
@@ -505,7 +505,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 28,
+            "level": 30,
             "stats":{
                 "hp":"???",
                 "attack":"???",
