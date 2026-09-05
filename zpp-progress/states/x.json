@@ -280,16 +280,16 @@
             "friendship":"???",
             "moves":[
                 {
+                    "name":"Force",
+                    "type":"Normal"
+                },
+                {
                     "name":"Pistolet à O",
                     "type":"Water"
                 },
                 {
-                    "name":"Coup d'Boule",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Boul'Armure",
-                    "type":"Normal"
+                    "name":"Éclate-Roc",
+                    "type":"Fighting"
                 },
                 {
                     "name":"Roulade",
@@ -501,7 +501,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 16,
+            "level": 17,
             "stats":{
                 "hp":"???",
                 "attack":"???",
