@@ -264,34 +264,41 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Castorno",
+            "name":"AAMMME",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Castorno",
-                "national_dex":399,
-                "type1":"Normal",
-                "type2":"Water",
+                "name":"Escroco",
+                "national_dex":551,
+                "type1":"Ground",
+                "type2":"Dark",
 				"evolutions":[
+					{
+						"level": 40
+					}
 				]
+            },
+            "held_item":{
+                "id": 538,
+                "name": "Évoluroc"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Force",
-                    "type":"Normal"
+                    "name":"Tunnel",
+                    "type":"Ground"
                 },
                 {
-                    "name":"Coupe",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Éclate-Roc",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Roulade",
+                    "name":"Tomberoche",
                     "type":"Rock"
+                },
+                {
+                    "name":"Coup d'Boue",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Assurance",
+                    "type":"Dark"
                 }
             ],
             "ivs":{
@@ -320,14 +327,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":102,
-                "area_name":"Route 22",
-                "level":6,
+                "area_id":46,
+                "area_name":"Route 9",
+                "level":16,
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"Simple",
-            "level": 31,
+            "ability":"Intimidation",
+            "level": 32,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -336,11 +343,11 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Female",
+            "gender":"Male",
             "experience":{
                 "current":"??"
             },
-            "nature":"Timide",
+            "nature":"???",
             "characteristic":"???"
         },
 		{
@@ -432,41 +439,34 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"AAMMME",
+            "name":"Castorno",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Escroco",
-                "national_dex":551,
-                "type1":"Ground",
-                "type2":"Dark",
+                "name":"Castorno",
+                "national_dex":399,
+                "type1":"Normal",
+                "type2":"Water",
 				"evolutions":[
-					{
-						"level": 40
-					}
 				]
-            },
-            "held_item":{
-                "id": 538,
-                "name": "Évoluroc"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Tunnel",
-                    "type":"Ground"
+                    "name":"Force",
+                    "type":"Normal"
                 },
                 {
-                    "name":"Tomberoche",
+                    "name":"Coupe",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Éclate-Roc",
+                    "type":"Fighting"
+                },
+                {
+                    "name":"Roulade",
                     "type":"Rock"
-                },
-                {
-                    "name":"Coup d'Boue",
-                    "type":"Ground"
-                },
-                {
-                    "name":"Assurance",
-                    "type":"Dark"
                 }
             ],
             "ivs":{
@@ -495,14 +495,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":46,
-                "area_name":"Route 9",
-                "level":16,
+                "area_id":102,
+                "area_name":"Route 22",
+                "level":6,
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"Intimidation",
-            "level": 32,
+            "ability":"Simple",
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -511,11 +511,11 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Male",
+            "gender":"Female",
             "experience":{
                 "current":"??"
             },
-            "nature":"???",
+            "nature":"Timide",
             "characteristic":"???"
         }
     ],
