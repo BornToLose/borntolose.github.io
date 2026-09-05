@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 23,
+            "level": 24,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -411,7 +411,7 @@
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"???",
+            "ability":"Simple",
             "level": 17,
             "stats":{
                 "hp":"???",
