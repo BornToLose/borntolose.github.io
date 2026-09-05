@@ -412,7 +412,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 16,
+            "level": 17,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -516,7 +516,7 @@
         }
     ],
     "game":"X",
-    "caught":13,
+    "caught":15,
     "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
