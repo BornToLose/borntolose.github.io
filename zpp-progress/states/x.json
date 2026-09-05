@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 32,
+            "level": 33,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 32,
+            "level": 33,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -354,7 +354,7 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Herbizarre",
+                "name":"Florizarre",
                 "national_dex":399,
                 "type1":"Grass",
                 "type2":"Poison",
@@ -416,7 +416,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 32,
+            "level": 33,
             "stats":{
                 "hp":"???",
                 "attack":"???",
