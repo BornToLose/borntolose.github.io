@@ -264,41 +264,34 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"AAMMME",
+            "name":"AAAAABW6NÇÇW",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Escroco",
-                "national_dex":551,
-                "type1":"Ground",
-                "type2":"Dark",
+                "name":"Maraiste",
+                "national_dex":195,
+                "type1":"Water",
+                "type2":"Ground",
 				"evolutions":[
-					{
-						"level": 40
-					}
 				]
-            },
-            "held_item":{
-                "id": 538,
-                "name": "Évoluroc"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Tunnel",
+                    "name":"Souplesse",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Boue-Bombe",
                     "type":"Ground"
                 },
                 {
-                    "name":"Tomberoche",
-                    "type":"Rock"
+                    "name":"Amnésie",
+                    "type":"Psychic"
                 },
                 {
-                    "name":"Coup d'Boue",
-                    "type":"Ground"
-                },
-                {
-                    "name":"Assurance",
-                    "type":"Dark"
+                    "name":"Bâillement",
+                    "type":"Normal"
                 }
             ],
             "ivs":{
@@ -327,14 +320,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":46,
-                "area_name":"Route 9",
-                "level":16,
+                "area_id":68,
+                "area_name":"Route 14",
+                "level":31,
                 "game":"X",
-                "caught_in":"Poké Ball"
+                "caught_in":"Super Ball"
             },
-            "ability":"Intimidation",
-            "level": 35,
+            "ability":"Moiteur",
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -347,7 +340,7 @@
             "experience":{
                 "current":"??"
             },
-            "nature":"???",
+            "nature":"Discret",
             "characteristic":"???"
         },
 		{
