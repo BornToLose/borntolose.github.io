@@ -116,16 +116,21 @@ ZEvent2026.Runs.push(
 			Time: "0d23h54m14s", Attempts: 1
 		},
 		
-		{ Name: "Maraiste", Time: "0d24h10m20s", Group: "Pokemon" }, 
+		{ Name: "Maraiste", Time: "1d00h10m20s", Group: "Pokemon" }, 
 		
 		{
 			Group: "Badges", Name: "Badge Nymphe", Image: "img/badges/fairy.png",
-			Time: "0d24h54m55s", Attempts: 1
+			Time: "1d00h54m55s", Attempts: 1
 		},
 		
 		{
 			Group: "Trainers", Name: "Brasénie & Cyane", Image: "img/trainers/x/bryonycelosia.png",
-			Time: "0d25h43m30s", Attempts: 1
+			Time: "1d01h43m30s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Myosotis", Image: "img/trainers/x/mable.png",
+			Time: "1d03h15m34s", Attempts: 1
 		},
 		
 		/*{
