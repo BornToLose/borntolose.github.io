@@ -21,8 +21,8 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Léchouille",
-                    "type":"Ghost"
+                    "name":"Surf",
+                    "type":"Water"
                 },
                 {
                     "name":"Vibraqua",
@@ -95,14 +95,11 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Braisillon",
+                "name":"Flambusard",
                 "national_dex":662,
                 "type1":"Fire",
                 "type2":"Flying",
 				"evolutions":[
-					{
-						"level":35
-					}
 				]
             },
             "held_item":{
@@ -288,8 +285,8 @@
                     "type":"Normal"
                 },
                 {
-                    "name":"Pistolet à O",
-                    "type":"Water"
+                    "name":"Coupe",
+                    "type":"Normal"
                 },
                 {
                     "name":"Éclate-Roc",
@@ -462,8 +459,8 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Mâchouille",
-                    "type":"Dark"
+                    "name":"Tunnel",
+                    "type":"Ground"
                 },
                 {
                     "name":"Tomberoche",
@@ -511,7 +508,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 30,
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
