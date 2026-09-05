@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 20,
+            "level": 21,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -284,7 +284,7 @@
                     "type":"Water"
                 },
                 {
-                    "name":"Rugissement",
+                    "name":"Coup d'Boule",
                     "type":"Normal"
                 },
                 {
@@ -329,7 +329,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 17,
+            "level": 18,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -415,7 +415,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 20,
+            "level": 22,
             "stats":{
                 "hp":"???",
                 "attack":"???",
