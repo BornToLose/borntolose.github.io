@@ -96,7 +96,7 @@ ZEvent2026.Runs.push(
 		
 		{
 			Group: "Badges", Name: "Badge Végétal", Image: "img/badges/plant.png",
-			Time: "0d21h23m51s", Attempts: 1
+			Time: "0d21h23m51s", Attempts: 2
 		},
 		
 		{
