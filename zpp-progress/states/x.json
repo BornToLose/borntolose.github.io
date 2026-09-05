@@ -266,89 +266,6 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"FHARA",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Feuiloutan",
-                "national_dex":511,
-                "type1":"Grass",
-				"evolutions":[
-				]
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Vampigraine",
-                    "type":"Grass"
-                },
-                {
-                    "name":"Camaraderie",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Groz'Yeux",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Léchouille",
-                    "type":"Ghost"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":14,
-                "area_name":"Forêt de Neuvartault",
-                "level":4,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Gloutonnerie",
-            "level": 18,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "gender":"Male",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
             "name":"Castorno",
             "language":"French",
             "shiny":false,
@@ -425,7 +342,7 @@
             "experience":{
                 "current":"??"
             },
-            "nature":"???",
+            "nature":"Timide",
             "characteristic":"???"
         },
 		{
@@ -499,6 +416,92 @@
             },
             "ability":"Engrais",
             "level": 20,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"AAMMME",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Mascaïman",
+                "national_dex":551,
+                "type1":"Ground",
+				"evolutions":[
+					{
+						"level": 29
+					}
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Jet de Sable",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Tourmente",
+                    "type":"Dark"
+                },
+                {
+                    "name":"Tourbi-Sable",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Assurance",
+                    "type":"Dark"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":46,
+                "area_name":"Route 9",
+                "level":16,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Intimidation",
+            "level": 16,
             "stats":{
                 "hp":"???",
                 "attack":"???",
