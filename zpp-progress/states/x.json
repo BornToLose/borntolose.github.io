@@ -444,6 +444,7 @@
                 "name":"Escroco",
                 "national_dex":551,
                 "type1":"Ground",
+                "type2":"Dark",
 				"evolutions":[
 					{
 						"level": 40
