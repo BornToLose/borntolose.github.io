@@ -5,17 +5,14 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Croâporal",
+            "name":"Amphinobi",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Croâporal",
-                "national_dex":657,
+                "name":"Amphinobi",
+                "national_dex":658,
                 "type1":"Water",
 				"evolutions":[
-					{
-						"level":36
-					}
 				]
             },
             "friendship":"???",
@@ -70,7 +67,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 36,
+            "level": 38,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -246,7 +243,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Impassible",
-            "level": 34,
+            "level": 35,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -330,7 +327,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 30,
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -360,9 +357,6 @@
                 "type1":"Grass",
                 "type2":"Poison",
 				"evolutions":[
-					{
-						"level": 32
-					}
 				]
             },
             "friendship":"???",
@@ -417,7 +411,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 36,
+            "level": 37,
             "stats":{
                 "hp":"???",
                 "attack":"???",

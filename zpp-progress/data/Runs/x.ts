@@ -92,17 +92,18 @@ ZEvent2026.Runs.push(
 			Time: "0d20h29m56s", Attempts: 1
 		},
 		
-		//{ Name: "Amphinobi", Time: "0d19h49m36s", Group: "Pokemon" }, 
+		{ Name: "Amphinobi", Time: "0d21h05m10s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Badges", Name: "Badge Végétal", Image: "img/badges/plant.png",
+			Time: "0d21h23m51s", Attempts: 1
+		},
 		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
 		},
 		
-		{
-			Group: "Badges", Name: "Badge Végétal", Image: "img/badges/plant.png",
-			Time: "2023-04-10T22:13:35.416Z", Attempts: 0
-		},
 		{
 			Group: "Badges", Name: "Badge Tension", Image: "img/badges/voltage.png",
 			Time: "2023-04-11T03:56:44.458Z", Attempts: 0
