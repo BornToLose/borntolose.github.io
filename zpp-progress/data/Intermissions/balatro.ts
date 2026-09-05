@@ -4,7 +4,7 @@ ZEvent2026.Runs.push(
         RunName: "Balatro",
         ColorPrimary: "#ffebec",
         ColorSecondary: "#bb0d04",
-        StartDate: "2026-09-06T00:00:00Z",
+        StartDate: "2026-09-05T02:59:47Z",
         Duration: "52h",
         HostName: "",
         HostImage: "",
