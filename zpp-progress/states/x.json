@@ -449,19 +449,23 @@
 					}
 				]
             },
+            "held_item":{
+                "id": 538,
+                "name": "Évoluroc"
+            },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Coup d'Boue",
-                    "type":"Ground"
+                    "name":"Mâchouille",
+                    "type":"Dark"
                 },
                 {
                     "name":"Tomberoche",
                     "type":"Rock"
                 },
                 {
-                    "name":"Mâchouille",
-                    "type":"Dark"
+                    "name":"Coup d'Boue",
+                    "type":"Ground"
                 },
                 {
                     "name":"Assurance",
@@ -520,7 +524,7 @@
     ],
     "game":"X",
     "caught":15,
-    "seen":"31+",
+    "seen":"92+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
     "money":"??????",
