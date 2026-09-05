@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 33,
+            "level": 34,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 33,
+            "level": 34,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -245,7 +245,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Œil Composé",
-            "level": 28,
+            "level": 30,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -416,7 +416,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 33,
+            "level": 34,
             "stats":{
                 "hp":"???",
                 "attack":"???",

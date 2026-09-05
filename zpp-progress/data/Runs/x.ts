@@ -74,19 +74,16 @@ ZEvent2026.Runs.push(
 		{ Name: "Escroco", Time: "0d17h58m38s", Group: "Pokemon" }, 
 		{ Name: "Florizarre", Time: "0d18h49m15s", Group: "Pokemon" }, 
 		
+		{
+			Group: "Badges", Name: "Badge Lutte", Image: "img/badges/rumble.png",
+			Time: "0d19h14m42s", Attempts: 1
+		},
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
 		},
 		
-		{
-			Group: "Badges", Name: "Badge Mur", Image: "img/badges/cliff.png",
-			Time: "2023-04-10T08:27:28.990Z", Attempts: 0
-		},
-		{
-			Group: "Badges", Name: "Badge Lutte", Image: "img/badges/rumble.png",
-			Time: "2023-04-10T15:18:24.214Z", Attempts: 0
-		},
 		{
 			Group: "Badges", Name: "Badge Végétal", Image: "img/badges/plant.png",
 			Time: "2023-04-10T22:13:35.416Z", Attempts: 0
