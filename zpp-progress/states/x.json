@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 35,
+            "level": 34,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -158,7 +158,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 34,
+            "level": 35,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -330,7 +330,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 28,
+            "level": 29,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -508,7 +508,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 31,
+            "level": 32,
             "stats":{
                 "hp":"???",
                 "attack":"???",
