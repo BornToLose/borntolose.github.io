@@ -105,6 +105,10 @@
 					}
 				]
             },
+            "held_item":{
+                "id": 540,
+                "name": "Casque Brut"
+            },
             "friendship":"???",
             "moves":[
                 {
