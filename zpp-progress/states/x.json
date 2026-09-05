@@ -266,16 +266,10 @@
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Feuillajou",
+                "name":"Feuiloutan",
                 "national_dex":511,
                 "type1":"Grass",
 				"evolutions":[
-					{
-						"required_item": {
-							"id": 85,
-							"name": "Pierre Plante"
-						}
-					}
 				]
             },
             "friendship":"???",
@@ -518,7 +512,7 @@
         }
     ],
     "game":"X",
-    "caught":12,
+    "caught":13,
     "seen":"31+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
