@@ -182,34 +182,38 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"♂XVJ+ABBÉbj",
+            "name":"PAUDEFER",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Prismillon",
-                "national_dex":666,
-                "type1":"Bug",
-                "type2":"Flying",
+                "name":"Lucario",
+                "national_dex":448,
+                "type1":"Fighting",
+                "type2":"Steel",
 				"evolutions":[
 				]
+            },
+            "held_item":{
+                "id": 673,
+                "name": "Lucarite"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Rafale Psy",
-                    "type":"Psychic"
+                    "name":"Poing Boost",
+                    "type":"Fighting"
                 },
                 {
-                    "name":"Vampibaiser",
-                    "type":"Fairy"
+                    "name":"Danse-Lames",
+                    "type":"Normal"
                 },
                 {
-                    "name":"Para-Spore",
-                    "type":"Grass"
+                    "name":"Strido-Son",
+                    "type":"Steel"
                 },
                 {
-                    "name":"Survinsecte",
-                    "type":"Bug"
+                    "name":"Charge Os",
+                    "type":"Ground"
                 }
             ],
             "ivs":{
@@ -238,14 +242,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":14,
-                "area_name":"Forêt de Neuvartault",
-                "level":3,
+                "area_id":60,
+                "area_name":"Tour Maîtrise",
+                "level":32,
                 "game":"X",
                 "caught_in":"Poké Ball"
             },
-            "ability":"Œil Composé",
-            "level": 30,
+            "ability":"Impassible",
+            "level": 32,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -254,7 +258,7 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Female",
+            "gender":"Male",
             "experience":{
                 "current":"??"
             },
