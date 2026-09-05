@@ -21,16 +21,16 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Brouillard",
-                    "type":"Normal"
+                    "name":"Léchouille",
+                    "type":"Ghost"
                 },
                 {
                     "name":"Vibraqua",
                     "type":"Water"
                 },
                 {
-                    "name":"Léchouille",
-                    "type":"Ghost"
+                    "name":"Aéropique",
+                    "type":"Flying"
                 },
                 {
                     "name":"Vive-Attaque",
@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 24,
+            "level": 31,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -112,19 +112,19 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Flammèche",
-                    "type":"Fire"
+                    "name":"Aéropique",
+                    "type":"Flying"
                 },
                 {
-                    "name":"Rugissement",
-                    "type":"Normal"
+                    "name":"Flammèche",
+                    "type":"Fire"
                 },
                 {
                     "name":"Vive-Attaque",
                     "type":"Normal"
                 },
                 {
-                    "name":"Picpic",
+                    "name":"Atterrissage",
                     "type":"Flying"
                 }
             ],
@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 22,
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -200,8 +200,8 @@
                     "type":"Psychic"
                 },
                 {
-                    "name":"Sécrétion",
-                    "type":"Bug"
+                    "name":"Vampibaiser",
+                    "type":"Fairy"
                 },
                 {
                     "name":"Para-Spore",
@@ -245,7 +245,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Œil Composé",
-            "level": 19,
+            "level": 26,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -329,7 +329,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 18,
+            "level": 26,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -415,7 +415,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 23,
+            "level": 31,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -456,8 +456,8 @@
                     "type":"Ground"
                 },
                 {
-                    "name":"Tourmente",
-                    "type":"Dark"
+                    "name":"Tomberoche",
+                    "type":"Rock"
                 },
                 {
                     "name":"Tourbi-Sable",
@@ -501,7 +501,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 20,
+            "level": 28,
             "stats":{
                 "hp":"???",
                 "attack":"???",

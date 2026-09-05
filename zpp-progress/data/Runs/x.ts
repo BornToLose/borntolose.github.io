@@ -58,7 +58,19 @@ ZEvent2026.Runs.push(
 		{
 			Group: "Badges", Name: "Badge Mur", Image: "img/badges/cliff.png",
 			Time: "0d11h42m02s", Attempts: 1
+		}, 
+		
+		{
+			Group: "Trainers", Name: "Cornélia", Image: "img/trainers/x/korrina.png",
+			Time: "0d13h46m05s", Attempts: 1
 		},
+		
+		{
+			Group: "Trainers", Name: "Serena", Image: "img/trainers/x/serena.png",
+			Time: "0d16h13m47s", Attempts: 1
+		},
+		
+		{ Name: "Pachirisu", Time: "0d16h43m12s", Group: "Pokemon" }, 
 		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
