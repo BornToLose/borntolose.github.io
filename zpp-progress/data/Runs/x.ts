@@ -104,6 +104,8 @@ ZEvent2026.Runs.push(
 			Time: "0d22h14m15s", Attempts: 1
 		},
 		
+		{ Name: "Kraknoix", Time: "0d22h27m33s", Group: "Pokemon" }, 
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
