@@ -241,7 +241,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"???",
-            "level": 16,
+            "level": 18,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -330,7 +330,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 16,
+            "level": 17,
             "stats":{
                 "hp":"???",
                 "attack":"???",
