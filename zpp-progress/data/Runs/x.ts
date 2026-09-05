@@ -143,6 +143,11 @@ ZEvent2026.Runs.push(
 			Time: "1d04h21m52s", Attempts: 1
 		},
 		
+		{
+			Group: "Trainers", Name: "Lysandre", Image: "img/trainers/x/lysandre.png",
+			Time: "1d05h06m09s", Attempts: 1
+		},
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1

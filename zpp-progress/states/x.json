@@ -67,7 +67,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 49,
+            "level": 50,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -102,7 +102,7 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Acrobatie",
+                    "name":"Vol",
                     "type":"Flying"
                 },
                 {
@@ -495,7 +495,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 41,
+            "level": 42,
             "stats":{
                 "hp":"???",
                 "attack":"???",
