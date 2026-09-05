@@ -70,7 +70,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 22,
+            "level": 23,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 18,
+            "level": 20,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -245,7 +245,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Œil Composé",
-            "level": 18,
+            "level": 19,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -328,7 +328,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Gloutonnerie",
-            "level": 17,
+            "level": 18,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -453,8 +453,8 @@
                     "type":"Normal"
                 },
                 {
-                    "name":"Rugissement",
-                    "type":"Normal"
+                    "name":"Tranch'Herbe",
+                    "type":"Grass"
                 },
                 {
                     "name":"Vampigraine",
@@ -498,7 +498,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 18,
+            "level": 20,
             "stats":{
                 "hp":"???",
                 "attack":"???",
