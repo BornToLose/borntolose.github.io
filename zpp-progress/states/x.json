@@ -99,10 +99,6 @@
 				"evolutions":[
 				]
             },
-            "held_item":{
-                "id": 540,
-                "name": "Casque Brut"
-            },
             "friendship":"???",
             "moves":[
                 {
@@ -358,6 +354,10 @@
                 "type2":"Poison",
 				"evolutions":[
 				]
+            },
+            "held_item":{
+                "id": 540,
+                "name": "Casque Brut"
             },
             "friendship":"???",
             "moves":[
