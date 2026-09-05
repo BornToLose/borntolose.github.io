@@ -161,7 +161,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 21,
+            "level": 22,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -415,7 +415,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Engrais",
-            "level": 22,
+            "level": 23,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -452,7 +452,7 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Jet de Sable",
+                    "name":"Coup d'Boue",
                     "type":"Ground"
                 },
                 {
@@ -501,7 +501,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Intimidation",
-            "level": 17,
+            "level": 20,
             "stats":{
                 "hp":"???",
                 "attack":"???",

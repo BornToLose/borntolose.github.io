@@ -55,6 +55,11 @@ ZEvent2026.Runs.push(
 		{ Name: "Mascaïman", Time: "0d09h29m52s", Group: "Pokemon" }, 
 		{ Name: "Ptyranidur", Time: "0d10h22m27s", Group: "Pokemon" }, 
 		
+		{
+			Group: "Badges", Name: "Badge Mur", Image: "img/badges/cliff.png",
+			Time: "0d11h42m02s", Attempts: 1
+		},
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
