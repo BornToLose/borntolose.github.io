@@ -148,6 +148,31 @@ ZEvent2026.Runs.push(
 			Time: "1d05h06m09s", Attempts: 1
 		},
 		
+		{
+			Group: "Trainers", Name: "Ancolie", Image: "img/trainers/x/aliana.png",
+			Time: "1d05h23m06s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Cyane", Image: "img/trainers/x/celosia.png",
+			Time: "1d05h52m23s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Brasénie", Image: "img/trainers/x/bryony.png",
+			Time: "1d05h58m36s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Myosotis", Image: "img/trainers/x/mable.png",
+			Time: "1d06h34m27s", Attempts: 1
+		},
+		
+		/*{
+			Group: "Trainers", Name: "Xanthin", Image: "img/trainers/x/xerosic.png",
+			Time: "1d06h34m27s", Attempts: 1
+		},*/
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
