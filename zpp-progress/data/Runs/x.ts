@@ -259,25 +259,7 @@ ZEvent2026.Runs.push(
 		},
 		
 		{ Name: "Feunnec", Time: "1d18h12m23s", Group: "Pokemon" }, 
-		
-		/*
-		
-		{
-			Group: "Champions", Name: "Dianthéa", Image: "img/trainers/x/diantha.png",
-			Time: "2023-04-15T16:25:02.067Z", Attempts: 0
-		},
-		<TPP.HallOfFame>{
-			Group: "Hall of Fame", Name: "Hall of Fame", Time: "2023-04-15T16:26:22.629Z", Attempts: 0, Party: [
-				{ Pokemon: "Yveltal", Nickname: "SEPHIROTH", Level: 97 },
-				{ Pokemon: "Greninja", Nickname: "!!iyy\u00e9\u00e9\u00e9roff", Level: 98, Gender: "Male" },
-				{ Pokemon: "Electivire", Nickname: "EleSHha!A\ue08e\ue08e", Level: 100, Gender: "Male" },
-				{ Pokemon: "Magmortar", Nickname: "Magtwo", Level: 99, Gender: "Female" },
-				{ Pokemon: "Pinsir", Nickname: "PIKACHU", Level: 95, Gender: "Female" },
-				{ Pokemon: "Dragalge", Nickname: "MadeInAbyss\ue092", Level: 99, Gender: "Female" },
-			],
-			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
-			Image: "img/ribbons/champion-kalos.png"
-		},*/
+		{ Name: "Mewtwo", Time: "1d18h56m53s", Group: "Pokemon" }, 
 
         ]
     }
