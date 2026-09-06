@@ -5,7 +5,7 @@ ZEvent2026.Runs.push(
         ColorPrimary: "#1d70b4",
         ColorSecondary: "#03619f",
         StartDate: "2026-09-04T15:57:52Z",
-        Duration: "60h",
+        Duration: "2026-09-06T23:04:17Z",
         HostName: "♂QQRYAQNN  E",
         HostImage: "img/hosts/qqryaqnne.png",
         // HostImageSource: "",
