@@ -235,6 +235,23 @@ ZEvent2026.Runs.push(
 			Group: "Elite Four", Name: "Dracéna", Image: "img/trainers/x/drasna.png",
 			Time: "1d17h18m06s", Attempts: 1
 		},
+		{
+			Group: "Champions", Name: "Dianthéa", Image: "img/trainers/x/diantha.png",
+			Time: "1d17h50m13s", Attempts: 1
+		},
+		
+		<TPP.HallOfFame>{
+			Group: "Hall of Fame", Name: "Panthéon", Time: "1d17h51m12s", Attempts: 1, Party: [
+				{ Pokemon: "Xerneas", Nickname: "ARZYRRORHOTV", Level: 61 },
+				{ Pokemon: "Amphinobi", Level: 62, Gender: "Male" },
+				{ Pokemon: "Maraiste", Nickname: "MR", Level: 56, Gender: "Male" },
+				{ Pokemon: "Lucario", Nickname: "PAUDEFEUR", Level: 62, Gender: "Male" },
+				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 63, Gender: "Female" },
+				{ Pokemon: "Castorno", Level: 60, Gender: "Female" },
+			],
+			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
+			Image: "img/ribbons/champion-kalos.png"
+		},
 		
 		/*
 		
