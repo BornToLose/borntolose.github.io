@@ -21,7 +21,7 @@ ZEvent2026.Runs.push(
         ColorPrimary: "#ffebec",
         ColorSecondary: "#bb0d04",
         StartDate: "2026-09-06T03:33:23Z",
-        Duration: "24h",
+        Duration: "8h24m30s",
         HostName: "",
         HostImage: "",
         // HostImageSource: "",
