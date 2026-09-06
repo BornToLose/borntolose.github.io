@@ -278,6 +278,10 @@
 				"evolutions":[
 				]
             },
+            "held_item":{
+                "id": 234,
+                "name": "Restes"
+            },
             "friendship":"???",
             "moves":[
                 {
