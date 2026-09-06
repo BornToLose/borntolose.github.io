@@ -253,6 +253,11 @@ ZEvent2026.Runs.push(
 			Image: "img/ribbons/champion-kalos.png"
 		},
 		
+		{
+			Group: "Trainers", Name: "AZ", Image: "img/trainers/x/az.png",
+			Time: "1d17h56m32s", Attempts: 1
+		},
+		
 		/*
 		
 		{
