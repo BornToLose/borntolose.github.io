@@ -113,8 +113,8 @@
                     "type":"Fire"
                 },
                 {
-                    "name":"Vive-Attaque",
-                    "type":"Normal"
+                    "name":"Rapace",
+                    "type":"Flying"
                 },
                 {
                     "name":"Atterrissage",
@@ -412,7 +412,7 @@
                 "caught_in":"Master Ball"
             },
             "ability":"Pression",
-            "level": 73,
+            "level": 74,
             "stats":{
                 "hp":"???",
                 "attack":"???",

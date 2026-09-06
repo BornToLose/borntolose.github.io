@@ -276,6 +276,12 @@ ZEvent2026.Runs.push(
 		
 		{ Name: "Zygarde", Time: "2d00h35m43s", Group: "Pokemon" }, 
 
+		{
+			Group: "Trainers", Name: "Serena", Image: "img/trainers/x/serena.png",
+			Time: "2d02h17m48s", Attempts: 1
+		},
+		
+		{ Name: "Ronflex", Time: "2d02h25m34s", Group: "Pokemon" }, 
         ]
     }
 );
