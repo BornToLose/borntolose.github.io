@@ -214,27 +214,30 @@ ZEvent2026.Runs.push(
 			Time: "1d13h39m41s", Attempts: 1
 		},
 		
-		/*{
-			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
-			Time: "0d00h08m15s", Attempts: 1
+		{
+			Group: "Trainers", Name: "Serena", Image: "img/trainers/x/serena.png",
+			Time: "1d15h30m00s", Attempts: 1
 		},
 		
 		{
-			Group: "Elite Four", Name: "Narcisse", Image: "img/trainers/x/siebold.png",
-			Time: "2023-04-14T19:10:54.941Z", Attempts: 0
-		},
-		{
 			Group: "Elite Four", Name: "Malva", Image: "img/trainers/x/malva.png",
-			Time: "2023-04-14T21:40:33.924Z", Attempts: 0
-		},
-		{
-			Group: "Elite Four", Name: "Dracéna", Image: "img/trainers/x/drasna.png",
-			Time: "2023-04-14T18:57:32.205Z", Attempts: 0
+			Time: "1d16h13m27s", Attempts: 1
 		},
 		{
 			Group: "Elite Four", Name: "Thyméo", Image: "img/trainers/x/wikstrom.png",
-			Time: "2023-04-14T21:08:48.045Z", Attempts: 0
+			Time: "1d16h34m47s", Attempts: 1
 		},
+		{
+			Group: "Elite Four", Name: "Narcisse", Image: "img/trainers/x/siebold.png",
+			Time: "1d17h08m29s", Attempts: 1
+		},
+		{
+			Group: "Elite Four", Name: "Dracéna", Image: "img/trainers/x/drasna.png",
+			Time: "1d17h18m06s", Attempts: 1
+		},
+		
+		/*
+		
 		{
 			Group: "Champions", Name: "Dianthéa", Image: "img/trainers/x/diantha.png",
 			Time: "2023-04-15T16:25:02.067Z", Attempts: 0
