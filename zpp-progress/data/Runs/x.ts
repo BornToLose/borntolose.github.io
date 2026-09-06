@@ -249,7 +249,7 @@ ZEvent2026.Runs.push(
 				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 63, Gender: "Female" },
 				{ Pokemon: "Castorno", Level: 60, Gender: "Female" },
 			],
-			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
+			FirstAttemptDate: "",
 			Image: "img/ribbons/champion-kalos.png"
 		},
 		
@@ -270,7 +270,7 @@ ZEvent2026.Runs.push(
 				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 68, Gender: "Female" },
 				{ Pokemon: "Amphinobi", Level: 67, Gender: "Male" },
 			],
-			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
+			FirstAttemptDate: "",
 			Image: "img/ribbons/champion-kalos.png"
 		},
 		
@@ -282,6 +282,20 @@ ZEvent2026.Runs.push(
 		},
 		
 		{ Name: "Ronflex", Time: "2d02h25m34s", Group: "Pokemon" }, 
+
+		<TPP.HallOfFame>{
+			Group: "Hall of Fame", Name: "Panthéon", Time: "2d05h47m02s", Attempts: 1, Party: [
+				{ Pokemon: "Amphinobi", Level: 70, Gender: "Male" },
+				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 71, Gender: "Female" },
+				{ Pokemon: "Mewtwo", Nickname: "ZeratoR+Dach", Level: 75 },
+				{ Pokemon: "Zygarde", Nickname: "ZPlays2026", Level: 71 },
+				{ Pokemon: "Xerneas", Nickname: "Roemsotto", Level: 71 },
+				{ Pokemon: "Lucario", Nickname: "PAUDEFEUR", Level: 71, Gender: "Male" },
+			],
+			FirstAttemptDate: "",
+			Image: "img/ribbons/champion-kalos.png"
+		},
+		
         ]
     }
 );

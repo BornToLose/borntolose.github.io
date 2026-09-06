@@ -1,37 +1,42 @@
 {
     "party":[
-		{
+        {
             "original_trainer":{
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Roemsotto",
+            "name":"Amphinobi",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Xerneas",
-                "national_dex":716,
-                "type1":"Fairy",
+                "name":"Amphinobi",
+                "national_dex":658,
+                "type1":"Water",
+                "type2":"Dark",
 				"evolutions":[
 				]
+            },
+            "held_item":{
+                "id": 221,
+                "name": "Roche Royale"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Encornebois",
-                    "type":"Grass"
+                    "name":"Surf",
+                    "type":"Water"
                 },
                 {
-                    "name":"Géo-Contrôle",
-                    "type":"Fairy"
+                    "name":"Sheauriken",
+                    "type":"Water"
                 },
                 {
-                    "name":"Pouvoir Lunaire",
-                    "type":"Fairy"
+                    "name":"Aéropique",
+                    "type":"Flying"
                 },
                 {
-                    "name":"Tonnerre",
-                    "type":"Electric"
+                    "name":"Vive-Attaque",
+                    "type":"Normal"
                 }
             ],
             "ivs":{
@@ -60,26 +65,27 @@
                 "feel":0
             },
 			"met":{
-                "area_id":138,
-                "area_name":"Repaire Team Flare",
-                "level":50,
+                "area_id":10,
+                "area_name":"Quarellis",
+                "level":5,
                 "game":"X",
-                "caught_in":"Super Ball"
+                "caught_in":"Poké Ball"
             },
-            "ability":"Aura Féérique",
-            "level": 69,
+            "ability":"Torrent",
+            "level": 70,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
             },
+            "gender":"Male",
             "experience":{
                 "current":"??"
             },
-            "nature":"Naïf",
+            "nature":"???",
             "characteristic":"???"
         },
 		{
@@ -154,7 +160,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 69,
+            "level": 71,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -164,177 +170,6 @@
                 "speed":"???"
             },
             "gender":"Female",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"ZPlays2026",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Zygarde",
-                "national_dex":718,
-                "type1":"Dragon",
-                "type2":"Ground",
-				"evolutions":[
-				]
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Mâchouille",
-                    "type":"Dark"
-                },
-                {
-                    "name":"Séisme",
-                    "type":"Ground"
-                },
-                {
-                    "name":"Camouflage",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Dracochoc",
-                    "type":"Dragon"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":140,
-                "area_name":"Grotte Coda",
-                "level":70,
-                "game":"X",
-                "caught_in":"Hyper Ball"
-            },
-            "ability":"Aura Inversée",
-            "level": 70,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "experience":{
-                "current":"??"
-            },
-            "nature":"Malpoli",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"PAUDEFEUR",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Lucario",
-                "national_dex":448,
-                "type1":"Fighting",
-                "type2":"Steel",
-				"evolutions":[
-				]
-            },
-            "held_item":{
-                "id": 673,
-                "name": "Lucarite"
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Close Combat",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Griffe Acier",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Aurasphère",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Charge Os",
-                    "type":"Ground"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":60,
-                "area_name":"Tour Maîtrise",
-                "level":32,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Impassible",
-            "level": 69,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "gender":"Male",
             "experience":{
                 "current":"??"
             },
@@ -412,7 +247,7 @@
                 "caught_in":"Master Ball"
             },
             "ability":"Pression",
-            "level": 74,
+            "level": 75,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -427,43 +262,39 @@
             "nature":"Mauvais",
             "characteristic":"???"
         },
-        {
+		{
             "original_trainer":{
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Amphinobi",
+            "name":"ZPlays2026",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Amphinobi",
-                "national_dex":658,
-                "type1":"Water",
-                "type2":"Dark",
+                "name":"Zygarde",
+                "national_dex":718,
+                "type1":"Dragon",
+                "type2":"Ground",
 				"evolutions":[
 				]
-            },
-            "held_item":{
-                "id": 221,
-                "name": "Roche Royale"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Surf",
-                    "type":"Water"
+                    "name":"Mâchouille",
+                    "type":"Dark"
                 },
                 {
-                    "name":"Sheauriken",
-                    "type":"Water"
+                    "name":"Séisme",
+                    "type":"Ground"
                 },
                 {
-                    "name":"Aéropique",
-                    "type":"Flying"
-                },
-                {
-                    "name":"Vive-Attaque",
+                    "name":"Camouflage",
                     "type":"Normal"
+                },
+                {
+                    "name":"Dracochoc",
+                    "type":"Dragon"
                 }
             ],
             "ivs":{
@@ -492,21 +323,190 @@
                 "feel":0
             },
 			"met":{
-                "area_id":10,
-                "area_name":"Quarellis",
-                "level":5,
+                "area_id":140,
+                "area_name":"Grotte Coda",
+                "level":70,
                 "game":"X",
-                "caught_in":"Poké Ball"
+                "caught_in":"Hyper Ball"
             },
-            "ability":"Torrent",
-            "level": 68,
+            "ability":"Aura Inversée",
+            "level": 71,
             "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "experience":{
+                "current":"??"
+            },
+            "nature":"Malpoli",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"Roemsotto",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Xerneas",
+                "national_dex":716,
+                "type1":"Fairy",
+				"evolutions":[
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Encornebois",
+                    "type":"Grass"
+                },
+                {
+                    "name":"Géo-Contrôle",
+                    "type":"Fairy"
+                },
+                {
+                    "name":"Pouvoir Lunaire",
+                    "type":"Fairy"
+                },
+                {
+                    "name":"Tonnerre",
+                    "type":"Electric"
+                }
+            ],
+            "ivs":{
                 "hp":"??",
                 "attack":"??",
                 "defense":"??",
                 "special_attack":"??",
                 "special_defense":"??",
                 "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":138,
+                "area_name":"Repaire Team Flare",
+                "level":50,
+                "game":"X",
+                "caught_in":"Super Ball"
+            },
+            "ability":"Aura Féérique",
+            "level": 71,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "experience":{
+                "current":"??"
+            },
+            "nature":"Naïf",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"PAUDEFEUR",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Lucario",
+                "national_dex":448,
+                "type1":"Fighting",
+                "type2":"Steel",
+				"evolutions":[
+				]
+            },
+            "held_item":{
+                "id": 673,
+                "name": "Lucarite"
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Close Combat",
+                    "type":"Fighting"
+                },
+                {
+                    "name":"Griffe Acier",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Aurasphère",
+                    "type":"Fighting"
+                },
+                {
+                    "name":"Charge Os",
+                    "type":"Ground"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":60,
+                "area_name":"Tour Maîtrise",
+                "level":32,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Impassible",
+            "level": 71,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
             },
             "gender":"Male",
             "experience":{
@@ -517,10 +517,10 @@
         }
     ],
     "game":"X",
-    "caught":31,
-    "seen":"281+",
+    "caught":32,
+    "seen":"285",
     "name":"♂QQRYAQNN  E",
     "id":16871,
-    "money":"??????",
+    "money":149272,
 	"badges":255
 }
