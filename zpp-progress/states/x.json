@@ -344,38 +344,33 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"AAVÔ",
+            "name":"ARZYRRORHOTV",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Florizarre",
-                "national_dex":399,
-                "type1":"Grass",
-                "type2":"Poison",
+                "name":"Xerneas",
+                "national_dex":716,
+                "type1":"Fairy",
 				"evolutions":[
 				]
-            },
-            "held_item":{
-                "id": 540,
-                "name": "Casque Brut"
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Bélier",
-                    "type":"Normal"
+                    "name":"Gravité",
+                    "type":"Psychic"
                 },
                 {
-                    "name":"Tranch'Herbe",
-                    "type":"Grass"
+                    "name":"Géo-Contrôle",
+                    "type":"Fairy"
                 },
                 {
-                    "name":"Vampigraine",
-                    "type":"Grass"
+                    "name":"Pouvoir Lunaire",
+                    "type":"Fairy"
                 },
                 {
-                    "name":"Fouet Lianes",
-                    "type":"Grass"
+                    "name":"Mégacorne",
+                    "type":"Bug"
                 }
             ],
             "ivs":{
@@ -404,14 +399,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":22,
-                "area_name":"Illumis",
-                "level":10,
+                "area_id":138,
+                "area_name":"Repaire Team Flare",
+                "level":50,
                 "game":"X",
-                "caught_in":"Poké Ball"
+                "caught_in":"Super Ball"
             },
-            "ability":"Engrais",
-            "level": 48,
+            "ability":"Aura Féérique",
+            "level": 50,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -420,7 +415,6 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Male",
             "experience":{
                 "current":"??"
             },
