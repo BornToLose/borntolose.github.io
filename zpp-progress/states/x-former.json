@@ -1,17 +1,274 @@
 {
-    "party":[
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"FHARA",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Feuiloutan",
+                "national_dex":511,
+                "type1":"Grass",
+				"evolutions":[
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Vampigraine",
+                    "type":"Grass"
+                },
+                {
+                    "name":"Camaraderie",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Groz'Yeux",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Léchouille",
+                    "type":"Ghost"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":14,
+                "area_name":"Forêt de Neuvartault",
+                "level":4,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Gloutonnerie",
+            "level": 18,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
 		{
             "original_trainer":{
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Roemsotto",
+            "name":"♂XVJ+ABBÉbj",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Xerneas",
-                "national_dex":716,
-                "type1":"Fairy",
+                "name":"Prismillon",
+                "national_dex":666,
+                "type1":"Bug",
+                "type2":"Flying",
+				"evolutions":[
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Rafale Psy",
+                    "type":"Psychic"
+                },
+                {
+                    "name":"Vampibaiser",
+                    "type":"Fairy"
+                },
+                {
+                    "name":"Para-Spore",
+                    "type":"Grass"
+                },
+                {
+                    "name":"Survinsecte",
+                    "type":"Bug"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":14,
+                "area_name":"Forêt de Neuvartault",
+                "level":3,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Œil Composé",
+            "level": 30,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Female",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"AAMMME",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Escroco",
+                "national_dex":551,
+                "type1":"Ground",
+                "type2":"Dark",
+				"evolutions":[
+					{
+						"level": 40
+					}
+				]
+            },
+            "held_item":{
+                "id": 538,
+                "name": "Évoluroc"
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Tunnel",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Tomberoche",
+                    "type":"Rock"
+                },
+                {
+                    "name":"Coup d'Boue",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Assurance",
+                    "type":"Dark"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":46,
+                "area_name":"Route 9",
+                "level":16,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Intimidation",
+            "level": 35,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"AAVÔ",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Florizarre",
+                "national_dex":399,
+                "type1":"Grass",
+                "type2":"Poison",
 				"evolutions":[
 				]
             },
@@ -22,20 +279,20 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Encornebois",
+                    "name":"Bélier",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Tranch'Herbe",
                     "type":"Grass"
                 },
                 {
-                    "name":"Géo-Contrôle",
-                    "type":"Fairy"
+                    "name":"Vampigraine",
+                    "type":"Grass"
                 },
                 {
-                    "name":"Pouvoir Lunaire",
-                    "type":"Fairy"
-                },
-                {
-                    "name":"Tonnerre",
-                    "type":"Electric"
+                    "name":"Fouet Lianes",
+                    "type":"Grass"
                 }
             ],
             "ivs":{
@@ -64,188 +321,97 @@
                 "feel":0
             },
 			"met":{
-                "area_id":138,
-                "area_name":"Repaire Team Flare",
-                "level":50,
+                "area_id":22,
+                "area_name":"Illumis",
+                "level":10,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Engrais",
+            "level": 48,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"MR",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Maraiste",
+                "national_dex":195,
+                "type1":"Water",
+                "type2":"Ground",
+				"evolutions":[
+				]
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Ébullition",
+                    "type":"Water"
+                },
+                {
+                    "name":"Séisme",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Toxik",
+                    "type":"Poison"
+                },
+                {
+                    "name":"Buée Noire",
+                    "type":"Ice"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":92,
+                "area_name":"Route 19",
+                "level":48,
                 "game":"X",
                 "caught_in":"Super Ball"
             },
-            "ability":"Aura Féérique",
-            "level": 63,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "experience":{
-                "current":"??"
-            },
-            "nature":"Naïf",
-            "characteristic":"???"
-        },
-        {
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"Amphinobi",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Amphinobi",
-                "national_dex":658,
-                "type1":"Water",
-                "type2":"Dark",
-				"evolutions":[
-				]
-            },
-            "held_item":{
-                "id": 221,
-                "name": "Roche Royale"
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Surf",
-                    "type":"Water"
-                },
-                {
-                    "name":"Sheauriken",
-                    "type":"Water"
-                },
-                {
-                    "name":"Aéropique",
-                    "type":"Flying"
-                },
-                {
-                    "name":"Vive-Attaque",
-                    "type":"Normal"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":10,
-                "area_name":"Quarellis",
-                "level":5,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Torrent",
-            "level": 64,
-            "stats":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "gender":"Male",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"PAUDEFEUR",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Lucario",
-                "national_dex":448,
-                "type1":"Fighting",
-                "type2":"Steel",
-				"evolutions":[
-				]
-            },
-            "held_item":{
-                "id": 673,
-                "name": "Lucarite"
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Close Combat",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Griffe Acier",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Aurasphère",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Charge Os",
-                    "type":"Ground"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":60,
-                "area_name":"Tour Maîtrise",
-                "level":32,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Impassible",
+            "ability":"Absorb Eau",
             "level": 65,
             "stats":{
                 "hp":"???",
@@ -259,265 +425,6 @@
             "experience":{
                 "current":"??"
             },
-            "nature":"???",
+            "nature":"Gentil",
             "characteristic":"???"
         },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"♂♂♂+DHÊÉZZ",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Flambusard",
-                "national_dex":662,
-                "type1":"Fire",
-                "type2":"Flying",
-				"evolutions":[
-				]
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Vol",
-                    "type":"Flying"
-                },
-                {
-                    "name":"Nitrocharge",
-                    "type":"Fire"
-                },
-                {
-                    "name":"Vive-Attaque",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Atterrissage",
-                    "type":"Flying"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":8,
-                "area_name":"Route 1",
-                "level":3,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Corps Ardent",
-            "level": 65,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "gender":"Female",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"Castorno",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Castorno",
-                "national_dex":399,
-                "type1":"Normal",
-                "type2":"Water",
-				"evolutions":[
-				]
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Force",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Coupe",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Éclate-Roc",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Cascade",
-                    "type":"Water"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":102,
-                "area_name":"Route 22",
-                "level":6,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Simple",
-            "level": 62,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "gender":"Female",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"Timide",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"ZeratoR+Dach",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Mewtwo",
-                "national_dex":150,
-                "type1":"Psychic",
-				"evolutions":[
-				]
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Soin",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Psyko",
-                    "type":"Psychic"
-                },
-                {
-                    "name":"Bouclier",
-                    "type":"Psychic"
-                },
-                {
-                    "name":"Aurasphère",
-                    "type":"Fighting"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":168,
-                "area_name":"Grotte Inconnue",
-                "level":70,
-                "game":"X",
-                "caught_in":"Master Ball"
-            },
-            "ability":"Pression",
-            "level": 71,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "experience":{
-                "current":"??"
-            },
-            "nature":"Mauvais",
-            "characteristic":"???"
-        }
-    ],
-    "game":"X",
-    "caught":30,
-    "seen":"260+",
-    "name":"♂QQRYAQNN  E",
-    "id":16871,
-    "money":"??????",
-	"badges":255
-}

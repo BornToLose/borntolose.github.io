@@ -2,7 +2,7 @@
 ZEvent2026.Runs.push(
     {
         RunName: "Balatro (Nuit 1)",
-        ColorPrimary: "#ffebec",
+        ColorPrimary: "#fff8f8",
         ColorSecondary: "#bb0d04",
         StartDate: "2026-09-05T02:59:47Z",
         Duration: "5h26m03s",
@@ -18,7 +18,7 @@ ZEvent2026.Runs.push(
 ZEvent2026.Runs.push(
     {
         RunName: "Balatro (Nuit 2)",
-        ColorPrimary: "#fff5f6",
+        ColorPrimary: "#fff8f8",
         ColorSecondary: "#bb0d04",
         StartDate: "2026-09-06T03:33:23Z",
         Duration: "8h24m30s",
