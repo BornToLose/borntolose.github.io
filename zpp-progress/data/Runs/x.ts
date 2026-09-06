@@ -185,15 +185,40 @@ ZEvent2026.Runs.push(
 			Time: "1d08h51m04s", Attempts: 1
 		},
 		
+		{ Name: "Babimanta", Time: "1d09h37m19s", Group: "Pokemon" }, 
+		{ Name: "Tentacool", Time: "1d09h40m25s", Group: "Pokemon" }, 
+		{ Name: "Fermite", Time: "1d10h43m08s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Trainers", Name: "Prof. Platane", Image: "img/trainers/x/sycamore.png",
+			Time: "1d10h54m33s", Attempts: 1
+		},
+		
+		{ Name: "Escargaume", Time: "1d11h39m54s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Trainers", Name: "Sannah", Image: "img/trainers/x/shauna.png",
+			Time: "1d12h28m35s", Attempts: 1
+		},
+		{
+			Group: "Trainers", Name: "Tierno", Image: "img/trainers/x/tierno.png",
+			Time: "1d12h31m35s", Attempts: 1
+		},
+		{
+			Group: "Trainers", Name: "Trovato", Image: "img/trainers/x/trevor.png",
+			Time: "1d12h34m46s", Attempts: 1
+		},
+		
+		{
+			Group: "Badges", Name: "Badge Iceberg", Image: "img/badges/iceberg.png",
+			Time: "1d13h39m41s", Attempts: 1
+		},
+		
 		/*{
 			Group: "Trainers", Name: "Sannah", Image: "img/trainers/black/bianca.png",
 			Time: "0d00h08m15s", Attempts: 1
 		},
 		
-		{
-			Group: "Badges", Name: "Badge Iceberg", Image: "img/badges/iceberg.png",
-			Time: "2023-04-13T12:57:02.597Z", Attempts: 0
-		},
 		{
 			Group: "Elite Four", Name: "Narcisse", Image: "img/trainers/x/siebold.png",
 			Time: "2023-04-14T19:10:54.941Z", Attempts: 0

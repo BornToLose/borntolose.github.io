@@ -15,3 +15,19 @@ ZEvent2026.Runs.push(
         ]
     }
 );
+ZEvent2026.Runs.push(
+    {
+        RunName: "Balatro (Nuit 2)",
+        ColorPrimary: "#ffebec",
+        ColorSecondary: "#bb0d04",
+        StartDate: "2026-09-06T03:33:23Z",
+        Duration: "24h",
+        HostName: "",
+        HostImage: "",
+        // HostImageSource: "",
+		AlwaysShowHOF,
+        Events: [
+
+        ]
+    }
+);

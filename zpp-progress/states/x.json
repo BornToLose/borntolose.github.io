@@ -15,6 +15,10 @@
 				"evolutions":[
 				]
             },
+            "held_item":{
+                "id": 221,
+                "name": "Roche Royale"
+            },
             "friendship":"???",
             "moves":[
                 {
@@ -22,7 +26,7 @@
                     "type":"Water"
                 },
                 {
-                    "name":"Vibraqua",
+                    "name":"Sheauriken",
                     "type":"Water"
                 },
                 {
@@ -67,7 +71,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 53,
+            "level": 61,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -151,7 +155,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 53,
+            "level": 62,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -190,11 +194,11 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Poing Boost",
+                    "name":"Close Combat",
                     "type":"Fighting"
                 },
                 {
-                    "name":"Danse-Lames",
+                    "name":"Griffe Acier",
                     "type":"Normal"
                 },
                 {
@@ -239,7 +243,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Impassible",
-            "level": 55,
+            "level": 61,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -260,7 +264,7 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"AAAAABW6NÇÇW",
+            "name":"MR",
             "language":"French",
             "shiny":false,
             "species":{
@@ -274,20 +278,20 @@
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Souplesse",
-                    "type":"Normal"
+                    "name":"Ébullition",
+                    "type":"Water"
                 },
                 {
-                    "name":"Boue-Bombe",
+                    "name":"Séisme",
                     "type":"Ground"
                 },
                 {
-                    "name":"Amnésie",
-                    "type":"Psychic"
+                    "name":"Toxik",
+                    "type":"Poison"
                 },
                 {
-                    "name":"Bâillement",
-                    "type":"Normal"
+                    "name":"Buée Noire",
+                    "type":"Ice"
                 }
             ],
             "ivs":{
@@ -322,8 +326,8 @@
                 "game":"X",
                 "caught_in":"Super Ball"
             },
-            "ability":"Moiteur",
-            "level": 43,
+            "ability":"Absorb Eau",
+            "level": 65,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -332,11 +336,11 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Female",
+            "gender":"Male",
             "experience":{
                 "current":"??"
             },
-            "nature":"Discret",
+            "nature":"Gentil",
             "characteristic":"???"
         },
 		{
@@ -354,11 +358,15 @@
 				"evolutions":[
 				]
             },
+            "held_item":{
+                "id": 540,
+                "name": "Casque Brut"
+            },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Gravité",
-                    "type":"Psychic"
+                    "name":"Encornebois",
+                    "type":"Grass"
                 },
                 {
                     "name":"Géo-Contrôle",
@@ -369,8 +377,8 @@
                     "type":"Fairy"
                 },
                 {
-                    "name":"Mégacorne",
-                    "type":"Bug"
+                    "name":"Tonnerre",
+                    "type":"Electric"
                 }
             ],
             "ivs":{
@@ -406,7 +414,7 @@
                 "caught_in":"Super Ball"
             },
             "ability":"Aura Féérique",
-            "level": 50,
+            "level": 59,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -418,7 +426,7 @@
             "experience":{
                 "current":"??"
             },
-            "nature":"???",
+            "nature":"Naïf",
             "characteristic":"???"
         },
 		{
@@ -452,8 +460,8 @@
                     "type":"Fighting"
                 },
                 {
-                    "name":"Roulade",
-                    "type":"Rock"
+                    "name":"Cascade",
+                    "type":"Water"
                 }
             ],
             "ivs":{
@@ -489,7 +497,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 49,
+            "level": 59,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -508,9 +516,9 @@
     ],
     "game":"X",
     "caught":24,
-    "seen":"92+",
+    "seen":"260+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
     "money":"??????",
-	"badges":127
+	"badges":255
 }
