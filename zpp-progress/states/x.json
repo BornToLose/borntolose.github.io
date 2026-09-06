@@ -67,7 +67,7 @@
                 "caught_in":"Super Ball"
             },
             "ability":"Aura Féérique",
-            "level": 65,
+            "level": 68,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -80,182 +80,6 @@
                 "current":"??"
             },
             "nature":"Naïf",
-            "characteristic":"???"
-        },
-        {
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"Amphinobi",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Amphinobi",
-                "national_dex":658,
-                "type1":"Water",
-                "type2":"Dark",
-				"evolutions":[
-				]
-            },
-            "held_item":{
-                "id": 221,
-                "name": "Roche Royale"
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Surf",
-                    "type":"Water"
-                },
-                {
-                    "name":"Sheauriken",
-                    "type":"Water"
-                },
-                {
-                    "name":"Aéropique",
-                    "type":"Flying"
-                },
-                {
-                    "name":"Vive-Attaque",
-                    "type":"Normal"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":10,
-                "area_name":"Quarellis",
-                "level":5,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Torrent",
-            "level": 65,
-            "stats":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "gender":"Male",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
-            "characteristic":"???"
-        },
-		{
-            "original_trainer":{
-                "name":"♂QQRYAQNN  E",
-                "id":16871
-            },
-            "name":"PAUDEFEUR",
-            "language":"French",
-            "shiny":false,
-            "species":{
-                "name":"Lucario",
-                "national_dex":448,
-                "type1":"Fighting",
-                "type2":"Steel",
-				"evolutions":[
-				]
-            },
-            "held_item":{
-                "id": 673,
-                "name": "Lucarite"
-            },
-            "friendship":"???",
-            "moves":[
-                {
-                    "name":"Close Combat",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Griffe Acier",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Aurasphère",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Charge Os",
-                    "type":"Ground"
-                }
-            ],
-            "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "is_egg":false,
-            "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
-            },
-            "condition":{
-                "coolness":0,
-                "beauty":0,
-                "cuteness":0,
-                "smartness":0,
-                "toughness":0,
-                "feel":0
-            },
-			"met":{
-                "area_id":60,
-                "area_name":"Tour Maîtrise",
-                "level":32,
-                "game":"X",
-                "caught_in":"Poké Ball"
-            },
-            "ability":"Impassible",
-            "level": 65,
-            "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
-            },
-            "gender":"Male",
-            "experience":{
-                "current":"??"
-            },
-            "nature":"???",
             "characteristic":"???"
         },
 		{
@@ -330,7 +154,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 66,
+            "level": 68,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -434,6 +258,94 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
+            "name":"PAUDEFEUR",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Lucario",
+                "national_dex":448,
+                "type1":"Fighting",
+                "type2":"Steel",
+				"evolutions":[
+				]
+            },
+            "held_item":{
+                "id": 673,
+                "name": "Lucarite"
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Close Combat",
+                    "type":"Fighting"
+                },
+                {
+                    "name":"Griffe Acier",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Aurasphère",
+                    "type":"Fighting"
+                },
+                {
+                    "name":"Charge Os",
+                    "type":"Ground"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":60,
+                "area_name":"Tour Maîtrise",
+                "level":32,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Impassible",
+            "level": 68,
+            "stats":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
+            "characteristic":"???"
+        },
+		{
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
             "name":"ZeratoR+Dach",
             "language":"French",
             "shiny":false,
@@ -500,7 +412,7 @@
                 "caught_in":"Master Ball"
             },
             "ability":"Pression",
-            "level": 71,
+            "level": 73,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -513,6 +425,94 @@
                 "current":"??"
             },
             "nature":"Mauvais",
+            "characteristic":"???"
+        },
+        {
+            "original_trainer":{
+                "name":"♂QQRYAQNN  E",
+                "id":16871
+            },
+            "name":"Amphinobi",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Amphinobi",
+                "national_dex":658,
+                "type1":"Water",
+                "type2":"Dark",
+				"evolutions":[
+				]
+            },
+            "held_item":{
+                "id": 221,
+                "name": "Roche Royale"
+            },
+            "friendship":"???",
+            "moves":[
+                {
+                    "name":"Surf",
+                    "type":"Water"
+                },
+                {
+                    "name":"Sheauriken",
+                    "type":"Water"
+                },
+                {
+                    "name":"Aéropique",
+                    "type":"Flying"
+                },
+                {
+                    "name":"Vive-Attaque",
+                    "type":"Normal"
+                }
+            ],
+            "ivs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "is_egg":false,
+            "evs":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":10,
+                "area_name":"Quarellis",
+                "level":5,
+                "game":"X",
+                "caught_in":"Poké Ball"
+            },
+            "ability":"Torrent",
+            "level": 67,
+            "stats":{
+                "hp":"??",
+                "attack":"??",
+                "defense":"??",
+                "special_attack":"??",
+                "special_defense":"??",
+                "speed":"??"
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"??"
+            },
+            "nature":"???",
             "characteristic":"???"
         }
     ],
