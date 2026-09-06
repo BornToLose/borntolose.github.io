@@ -445,6 +445,10 @@
 				"evolutions":[
 				]
             },
+            "held_item":{
+                "id": 662,
+                "name": "Mewtwoïte X"
+            },
             "friendship":"???",
             "moves":[
                 {
@@ -515,7 +519,7 @@
     ],
     "game":"X",
     "caught":30,
-    "seen":"260+",
+    "seen":"281+",
     "name":"♂QQRYAQNN  E",
     "id":16871,
     "money":"??????",
