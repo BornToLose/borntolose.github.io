@@ -258,6 +258,8 @@ ZEvent2026.Runs.push(
 			Time: "1d17h56m32s", Attempts: 1
 		},
 		
+		{ Name: "Feunnec", Time: "1d18h12m23s", Group: "Pokemon" }, 
+		
 		/*
 		
 		{
