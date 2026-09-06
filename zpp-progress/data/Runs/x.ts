@@ -261,19 +261,18 @@ ZEvent2026.Runs.push(
 		{ Name: "Feunnec", Time: "1d18h12m23s", Group: "Pokemon" }, 
 		{ Name: "Mewtwo", Time: "1d18h56m53s", Group: "Pokemon" }, 
 
-		/*
 		<TPP.HallOfFame>{
-			Group: "Hall of Fame", Name: "Panthéon", Time: "1d17h51m12s", Attempts: 1, Party: [
-				{ Pokemon: "Xerneas", Nickname: "Roemsotto", Level: 61 },
-				{ Pokemon: "Amphinobi", Level: 64, Gender: "Male" },
-				{ Pokemon: "Lucario", Nickname: "PAUDEFEUR", Level: 65, Gender: "Male" },
-				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 65, Gender: "Female" },
-				{ Pokemon: "Castorno", Level: 62, Gender: "Female" },
-				{ Pokemon: "Mewtwo", Nickname: "ZeratoR+Dach", Level: 70 },
+			Group: "Hall of Fame", Name: "Panthéon", Time: "1d23h35m20s", Attempts: 2, Party: [
+				{ Pokemon: "Mewtwo", Nickname: "ZeratoR+Dach", Level: 73 },
+				{ Pokemon: "Xerneas", Nickname: "Roemsotto", Level: 67 },
+				{ Pokemon: "Castorno", Level: 65, Gender: "Female" },
+				{ Pokemon: "Lucario", Nickname: "PAUDEFEUR", Level: 68, Gender: "Male" },
+				{ Pokemon: "Flambusard", Nickname: "♂♂♂+DHÊÉZZ", Level: 68, Gender: "Female" },
+				{ Pokemon: "Amphinobi", Level: 67, Gender: "Male" },
 			],
 			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
 			Image: "img/ribbons/champion-kalos.png"
-		},*/
+		},
 
         ]
     }
