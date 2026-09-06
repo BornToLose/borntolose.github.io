@@ -67,7 +67,7 @@
                 "caught_in":"Super Ball"
             },
             "ability":"Aura Féérique",
-            "level": 68,
+            "level": 69,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -154,7 +154,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 68,
+            "level": 69,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -325,7 +325,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Impassible",
-            "level": 68,
+            "level": 69,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -499,7 +499,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 67,
+            "level": 68,
             "stats":{
                 "hp":"??",
                 "attack":"??",
