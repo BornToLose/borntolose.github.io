@@ -273,6 +273,8 @@ ZEvent2026.Runs.push(
 			FirstAttemptDate: "2023-04-14T18:47:03.177Z",
 			Image: "img/ribbons/champion-kalos.png"
 		},
+		
+		{ Name: "Zygarde", Time: "2d00h35m43s", Group: "Pokemon" }, 
 
         ]
     }
