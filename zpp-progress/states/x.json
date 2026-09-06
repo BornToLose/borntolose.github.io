@@ -351,34 +351,34 @@
                 "name":"♂QQRYAQNN  E",
                 "id":16871
             },
-            "name":"Castorno",
+            "name":"ZPlays2026",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Castorno",
-                "national_dex":399,
-                "type1":"Normal",
-                "type2":"Water",
+                "name":"Zygarde",
+                "national_dex":718,
+                "type1":"Dragon",
+                "type2":"Ground",
 				"evolutions":[
 				]
             },
             "friendship":"???",
             "moves":[
                 {
-                    "name":"Force",
+                    "name":"Mâchouille",
+                    "type":"Dark"
+                },
+                {
+                    "name":"Séisme",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Camouflage",
                     "type":"Normal"
                 },
                 {
-                    "name":"Coupe",
-                    "type":"Normal"
-                },
-                {
-                    "name":"Éclate-Roc",
-                    "type":"Fighting"
-                },
-                {
-                    "name":"Cascade",
-                    "type":"Water"
+                    "name":"Dracochoc",
+                    "type":"Dragon"
                 }
             ],
             "ivs":{
@@ -407,14 +407,14 @@
                 "feel":0
             },
 			"met":{
-                "area_id":102,
-                "area_name":"Route 22",
-                "level":6,
+                "area_id":140,
+                "area_name":"Grotte Coda",
+                "level":70,
                 "game":"X",
-                "caught_in":"Poké Ball"
+                "caught_in":"Hyper Ball"
             },
-            "ability":"Simple",
-            "level": 62,
+            "ability":"Aura Inversée",
+            "level": 70,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -423,11 +423,10 @@
                 "special_defense":"???",
                 "speed":"???"
             },
-            "gender":"Female",
             "experience":{
                 "current":"??"
             },
-            "nature":"Timide",
+            "nature":"Malpoli",
             "characteristic":"???"
         },
 		{
