@@ -67,7 +67,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Torrent",
-            "level": 52,
+            "level": 53,
             "stats":{
                 "hp":"??",
                 "attack":"??",
@@ -151,7 +151,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Corps Ardent",
-            "level": 50,
+            "level": 53,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -239,7 +239,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Impassible",
-            "level": 51,
+            "level": 55,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -323,7 +323,7 @@
                 "caught_in":"Super Ball"
             },
             "ability":"Moiteur",
-            "level": 39,
+            "level": 43,
             "stats":{
                 "hp":"???",
                 "attack":"???",
@@ -489,7 +489,7 @@
                 "caught_in":"Poké Ball"
             },
             "ability":"Simple",
-            "level": 46,
+            "level": 49,
             "stats":{
                 "hp":"???",
                 "attack":"???",
