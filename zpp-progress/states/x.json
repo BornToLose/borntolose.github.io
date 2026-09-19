@@ -20,7 +20,7 @@
                 "id": 221,
                 "name": "Roche Royale"
             },
-            "friendship":"???",
+            "friendship":"255",
             "moves":[
                 {
                     "name":"Surf",
@@ -40,21 +40,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"13",
+                "attack":"23",
+                "defense":"19",
+                "special_attack":"4",
+                "special_defense":"27",
+                "speed":"1"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"65",
+                "attack":"122",
+                "defense":"49",
+                "special_attack":"76",
+                "special_defense":"35",
+                "speed":"163"
             },
             "condition":{
                 "coolness":0,
@@ -74,19 +74,19 @@
             "ability":"Torrent",
             "level": 70,
             "stats":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"201",
+                "attack":"175",
+                "defense":"132",
+                "special_attack":"148",
+                "special_defense":"128",
+                "speed":"204"
             },
             "gender":"Male",
             "experience":{
-                "current":"??"
+                "current":"352088"
             },
-            "nature":"???",
-            "characteristic":"???"
+            "nature":"Malin",
+            "characteristic":"Esprit rebelle"
         },
 		{
             "original_trainer":{
@@ -108,7 +108,7 @@
                 "id": 234,
                 "name": "Restes"
             },
-            "friendship":"???",
+            "friendship":"255",
             "moves":[
                 {
                     "name":"Vol",
@@ -128,21 +128,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"30",
+                "attack":"10",
+                "defense":"18",
+                "special_attack":"22",
+                "special_defense":"12",
+                "speed":"0"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"65",
+                "attack":"145",
+                "defense":"54",
+                "special_attack":"70",
+                "special_defense":"49",
+                "speed":"127"
             },
             "condition":{
                 "coolness":0,
@@ -153,8 +153,8 @@
                 "feel":0
             },
 			"met":{
-                "area_id":8,
-                "area_name":"Route 1",
+                "area_id":12,
+                "area_name":"Route 2",
                 "level":3,
                 "game":"X",
                 "caught_in":"Poké Ball"
@@ -162,19 +162,19 @@
             "ability":"Corps Ardent",
             "level": 71,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"224",
+                "attack":"152",
+                "defense":"114",
+                "special_attack":"137",
+                "special_defense":"120",
+                "speed":"225"
             },
             "gender":"Female",
             "experience":{
-                "current":"??"
+                "current":"361708"
             },
-            "nature":"???",
-            "characteristic":"???"
+            "nature":"Pressé",
+            "characteristic":"Adore manger"
         },
 		{
             "original_trainer":{
@@ -195,7 +195,7 @@
                 "id": 662,
                 "name": "Mewtwoïte X"
             },
-            "friendship":"???",
+            "friendship":"141",
             "moves":[
                 {
                     "name":"Soin",
@@ -215,21 +215,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"31",
+                "attack":"8",
+                "defense":"10",
+                "special_attack":"31",
+                "special_defense":"31",
+                "speed":"25"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"26",
+                "attack":"43",
+                "defense":"50",
+                "special_attack":"27",
+                "special_defense":"30",
+                "speed":"25"
             },
             "condition":{
                 "coolness":0,
@@ -249,18 +249,18 @@
             "ability":"Pression",
             "level": 75,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"271",
+                "attack":"201",
+                "defense":"156",
+                "special_attack":"263",
+                "special_defense":"151",
+                "speed":"223"
             },
             "experience":{
-                "current":"??"
+                "current":"540401"
             },
             "nature":"Mauvais",
-            "characteristic":"???"
+            "characteristic":"Coquin"
         },
 		{
             "original_trainer":{
@@ -278,7 +278,7 @@
 				"evolutions":[
 				]
             },
-            "friendship":"???",
+            "friendship":"47",
             "moves":[
                 {
                     "name":"Mâchouille",
@@ -298,21 +298,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"31",
+                "attack":"31",
+                "defense":"5",
+                "special_attack":"10",
+                "special_defense":"31",
+                "speed":"10"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"11",
+                "attack":"14",
+                "defense":"10",
+                "special_attack":"7",
+                "special_defense":"15",
+                "speed":"8"
             },
             "condition":{
                 "coolness":0,
@@ -332,18 +332,18 @@
             "ability":"Aura Inversée",
             "level": 71,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"257",
+                "attack":"171",
+                "defense":"181",
+                "special_attack":"127",
+                "special_defense":"180",
+                "speed":"133"
             },
             "experience":{
-                "current":"??"
+                "current":"463914"
             },
             "nature":"Malpoli",
-            "characteristic":"???"
+            "characteristic":"Un peu vaniteux"
         },
 		{
             "original_trainer":{
@@ -360,7 +360,7 @@
 				"evolutions":[
 				]
             },
-            "friendship":"???",
+            "friendship":"252",
             "moves":[
                 {
                     "name":"Encornebois",
@@ -380,21 +380,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"31",
+                "attack":"31",
+                "defense":"31",
+                "special_attack":"27",
+                "special_defense":"23",
+                "speed":"12"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"45",
+                "attack":"78",
+                "defense":"72",
+                "special_attack":"62",
+                "special_defense":"60",
+                "speed":"51"
             },
             "condition":{
                 "coolness":0,
@@ -414,18 +414,18 @@
             "ability":"Aura Féérique",
             "level": 71,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"289",
+                "attack":"226",
+                "defense":"174",
+                "special_attack":"220",
+                "special_defense":"153",
+                "speed":"178"
             },
             "experience":{
-                "current":"??"
+                "current":"449175"
             },
             "nature":"Naïf",
-            "characteristic":"???"
+            "characteristic":"S'assoupit souvent"
         },
 		{
             "original_trainer":{
@@ -447,7 +447,7 @@
                 "id": 673,
                 "name": "Lucarite"
             },
-            "friendship":"???",
+            "friendship":"255",
             "moves":[
                 {
                     "name":"Close Combat",
@@ -467,21 +467,21 @@
                 }
             ],
             "ivs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"6",
+                "attack":"25",
+                "defense":"16",
+                "special_attack":"25",
+                "special_defense":"19",
+                "speed":"31"
             },
             "is_egg":false,
             "evs":{
-                "hp":"??",
-                "attack":"??",
-                "defense":"??",
-                "special_attack":"??",
-                "special_defense":"??",
-                "speed":"??"
+                "hp":"55",
+                "attack":"123",
+                "defense":"73",
+                "special_attack":"90",
+                "special_defense":"48",
+                "speed":"121"
             },
             "condition":{
                 "coolness":0,
@@ -501,19 +501,19 @@
             "ability":"Impassible",
             "level": 71,
             "stats":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":"193",
+                "attack":"200",
+                "defense":"115",
+                "special_attack":"201",
+                "special_defense":"126",
+                "speed":"193"
             },
             "gender":"Male",
             "experience":{
-                "current":"??"
+                "current":"364922"
             },
-            "nature":"???",
-            "characteristic":"???"
+            "nature":"Pressé",
+            "characteristic":"Attentif aux sons"
         }
     ],
     "game":"X",
