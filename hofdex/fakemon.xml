@@ -3917,10 +3917,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
@@ -3933,10 +3934,11 @@
 	</types>
 	<runs>
 		<run>SpaceWorld Gold Reforged Revisit</run>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
@@ -4243,10 +4245,11 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
@@ -4360,10 +4363,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
@@ -4589,6 +4593,7 @@
 	</types>
 	<runs>
 		<run>SpaceWorld Gold Reforged</run>
+		<run>Peridot</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5119,6 +5124,40 @@
 	</types>
 	<runs>
 		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
+<!-- PERIDOT -->
+
+  <mon region="peridot" final="true">
+	<num>PRD-0018</num>
+    <name>Skelegon</name>
+	<types>
+		<type>Rock</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+		<run>Peridot</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="peridot" final="true">
+	<num>PRD-0253</num>
+    <name>Ferrodon</name>
+	<types>
+		<type>Steel</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
 		<rank>main</rank>

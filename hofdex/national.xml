@@ -49,6 +49,7 @@
 		<run>RGB Green</run>
 		<run>Charity Dual Blue - Testing</run>
 		<run>Japanese Green</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -102,6 +103,7 @@
 		<run>Randomized Black 2</run>
 		<run>Charity Dual Blue</run>
 		<run>Randomized Violet+</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -152,6 +154,7 @@
 		<run>Japanese Blue</run>
 		<run>NES Yellow</run>
 		<run>Legends Z-A</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -166,9 +169,10 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -180,9 +184,10 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -198,6 +203,7 @@
 		<run>Moemon</run>
 		<run>Dual Sanqui Blue</run>
 		<run>Japanese Green</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -214,9 +220,10 @@
 	</types>
 	<runs>
 		<run>Debug Rubin</run>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -229,9 +236,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -303,6 +311,7 @@
 		<run>Crystal Revisit</run>
 		<run>Bronze</run>
 		<run>Legends Z-A</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -449,6 +458,8 @@
 	<runs>
 		<run>Brilliant Diamond</run>
 		<run>Yellow</run>
+		<run>Unbound Revisit</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -499,9 +510,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -514,9 +526,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -595,6 +608,7 @@
 	<runs>
 		<run>Dual Red</run>
 		<run>Charity Dual Blue - Testing</run>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -691,9 +705,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -705,9 +720,10 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -883,6 +899,7 @@
 		<run>Red Anniversary</run>
 		<run>The Wooper Who Saved Christmas</run>
 		<run>Japanese Blue</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -931,9 +948,10 @@
 	</types>
 	<runs>
 		<run>The Wooper Who Saved Christmas</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem>inter</emblem>
 	</status>
   </mon> 
@@ -1009,9 +1027,10 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1023,9 +1042,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1113,10 +1133,11 @@
 	</types>
 	<runs>
 		<run>Yellow</run>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -1174,10 +1195,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -1270,6 +1292,7 @@
 		<run>Dual Blue</run>
 		<run>Charity Dual Red</run>
 		<run>Super Gauntlet Silver</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1518,9 +1541,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1549,10 +1573,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -1564,9 +1589,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1578,9 +1604,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1596,6 +1623,7 @@
 		<run>Red Anniversary</run>
 		<run>Randomized TriHard Emerald</run>
 		<run>Super Gauntlet Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1676,9 +1704,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1885,6 +1914,8 @@
 		<run>Dual Sanqui Red</run>
 		<run>NES Yellow</run>
 		<run>Super Gauntlet Diamond</run>
+		<run>Unbound Revisit</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1901,6 +1932,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Red</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1976,9 +2008,10 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -2006,6 +2039,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Red</run>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2021,10 +2055,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2052,6 +2087,7 @@
 	</types>
 	<runs>
 		<run>Pyrite</run>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2116,10 +2152,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2162,10 +2199,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2286,6 +2324,7 @@
 	<runs>
 		<run>Charity Dual Blue</run>
 		<run>GB Tower Crystal - VC Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2315,10 +2354,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2345,6 +2385,7 @@
 	<runs>
 		<run>Charity Dual Blue</run>
 		<run>Super Gauntlet Sun</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2395,10 +2436,11 @@
 	</types>
 	<runs>
 		<run>Yellow</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2410,9 +2452,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -2490,6 +2533,7 @@
 	</types>
 	<runs>
 		<run>Wilting Y</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2557,6 +2601,7 @@
 		<run>Super Gauntlet Red</run>
 		<run>Rocket Edition</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2761,6 +2806,7 @@
 	<runs>
 		<run>Crystal Anniversary</run>
 		<run>Wilting Y</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2795,6 +2841,7 @@
 		<run>Randomized White 2</run>
 		<run>Randomized Black</run>
 		<run>Yellow</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2865,6 +2912,7 @@
 		<run>Randomized Chatty Crystal</run>
 		<run>Randomized TriHard Emerald</run>
 		<run>NES Yellow</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2950,9 +2998,11 @@
 		<run>Randomized Sanqui Red</run>
 		<run>Japanese Green</run>
 		<run>NES Yellow</run>
+		<run>Unbound Revisit</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
-		<rank>side</rank>
+		<rank>main</rank>
 		<emblem>side</emblem>
 	</status>
   </mon> 
@@ -3323,10 +3373,13 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
+		<run>Randomized Shield</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -3384,10 +3437,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -3465,6 +3519,7 @@
 		<run>Silver</run>
 		<run>Super Gauntlet Silver</run>
 		<run>Multiworld Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3670,9 +3725,10 @@
 	</types>
 	<runs>
 		<run>The Wooper Who Saved Christmas</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem>inter</emblem>
 	</status>
   </mon> 
@@ -3705,6 +3761,7 @@
 		<run>Blazing Emerald Runback</run>
 		<run>Photonic Sun</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3724,6 +3781,7 @@
 		<run>Crystal Revisit</run>
 		<run>Grand Colosseum</run>
 		<run>Silver</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3933,6 +3991,7 @@
 		<run>Gauntlet Crystal</run>
 		<run>Inverse Platinum</run>
 		<run>Snakewood DX</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4010,6 +4069,7 @@
 	<runs>
 		<run>Metronome Sapphire</run>
 		<run>GB Tower Crystal - VC Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -4026,6 +4086,7 @@
 	</types>
 	<runs>
 		<run>Vega</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4042,6 +4103,7 @@
 	</types>
 	<runs>
 		<run>Silver</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -4133,6 +4195,7 @@
 		<run>Renegade Platinum</run>
 		<run>Randomized Black 2</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4195,9 +4258,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4309,6 +4373,7 @@
 		<run>Brilliant Diamond</run>
 		<run>Ultra Mega Power</run>
 		<run>Ultra Mega Power Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4328,6 +4393,7 @@
 		<run>Metronome Sapphire</run>
 		<run>Rising Ruby</run>
 		<run>Super Gauntlet Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4510,9 +4576,10 @@
 	</types>
 	<runs>
 		<run>Burning Red Revisit</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4525,6 +4592,7 @@
 	</types>
 	<runs>
 		<run>Mega Power</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4612,6 +4680,7 @@
 		<run>Ultra Sun</run>
 		<run>Debug Rubin</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4719,6 +4788,7 @@
 	<runs>
 		<run>Black 2</run>
 		<run>XG</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4768,6 +4838,7 @@
 		<run>TriHard Emerald</run>
 		<run>Japanese Sapphire</run>
 		<run>Super Gauntlet Ruby</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4817,6 +4888,7 @@
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Lightning Sapphire</run>
 		<run>Sapphire</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4862,9 +4934,10 @@
 	<runs>
 		<run>Debug Rubin</run>
 		<run>Lightning Sapphire</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank>side</rank>
+		<rank>main</rank>
 		<emblem>side</emblem>
 	</status>
   </mon> 
@@ -4877,9 +4950,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5198,6 +5272,7 @@
 		<run>Brilliant Diamond</run>
 		<run>Dual Sanqui Blue</run>
 		<run>Sapphire</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5509,6 +5584,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5527,6 +5603,7 @@
 		<run>Randomized Black 2</run>
 		<run>Resolute</run>
 		<run>Super Gauntlet X</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5574,6 +5651,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5605,6 +5683,7 @@
 	</types>
 	<runs>
 		<run>Inverse Platinum</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5636,6 +5715,7 @@
 		<run>Omega Ruby</run>
 		<run>TriHard Emerald</run>
 		<run>Sapphire</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5698,10 +5778,11 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5777,6 +5858,7 @@
 	<runs>
 		<run>XD</run>
 		<run>Dual Sanqui Red</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5838,6 +5920,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6010,6 +6093,7 @@
 		<run>FireRed Revisit</run>
 		<run>Gauntlet Platinum</run>
 		<run>Super Gauntlet Colosseum</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6137,6 +6221,7 @@
 	<runs>
 		<run>Blazing Emerald</run>
 		<run>Super Gauntlet Sword</run>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6270,6 +6355,7 @@
 		<run>Inverse Platinum</run>
 		<run>Photonic Sun</run>
 		<run>Photonic Sun Revisit - Lusamine Day</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6329,6 +6415,7 @@
 	</types>
 	<runs>
 		<run>Victory Fire</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6410,6 +6497,7 @@
 		<run>X</run>
 		<run>Randomized White 2</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6453,6 +6541,7 @@
 	</types>
 	<runs>
 		<run>Prism Anniversary</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6625,6 +6714,8 @@
 		<run>Randomized Black 2</run>
 		<run>Randomized Chatty Crystal</run>
 		<run>Brilliant Diamond Revisit</run>
+		<run>Unbound Revisit</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6674,6 +6765,7 @@
 	<runs>
 		<run>XG</run>
 		<run>Renegade Platinum</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6691,6 +6783,7 @@
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Blazing Emerald</run>
 		<run>Dual Sanqui Red</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6706,6 +6799,7 @@
 	</types>
 	<runs>
 		<run>TriHard Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6721,6 +6815,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Sapphire</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6738,6 +6833,8 @@
 	<runs>
 		<run>Randomized TriHard Emerald</run>
 		<run>Inverse White 2</run>
+		<run>Unbound Revisit</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6756,6 +6853,7 @@
 		<run>Omega Ruby</run>
 		<run>Debug Rubin</run>
 		<run>Multiworld Emerald</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6774,6 +6872,7 @@
 		<run>Lightning Sapphire</run>
 		<run>Photonic Sun</run>
 		<run>Photonic Sun Revisit - Lusamine Day</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6792,6 +6891,7 @@
 		<run>Sirius</run>
 		<run>Mega Power</run>
 		<run>Ultra Mega Power</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6810,6 +6910,7 @@
 		<run>Omega Ruby</run>
 		<run>Alpha Sapphire</run>
 		<run>Resolute</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6826,9 +6927,10 @@
 	</types>
 	<runs>
 		<run>Debug Rubin</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -6841,6 +6943,7 @@
 	</types>
 	<runs>
 		<run>Randomized SoulSilver</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6983,6 +7086,7 @@
 	<runs>
 		<run>Flora Sky</run>
 		<run>Super Gauntlet Pearl</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7263,10 +7367,12 @@
 		<type>Unknown</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -7399,9 +7505,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -7430,10 +7537,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7492,6 +7600,7 @@
 	<runs>
 		<run>Prism</run>
 		<run>Nameless</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7553,10 +7662,11 @@
 	</types>
 	<runs>
 		<run>Dual Sanqui Blue</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7758,6 +7868,7 @@
 		<run>Randomized Black</run>
 		<run>Brilliant Diamond</run>
 		<run>Brilliant Diamond Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7820,9 +7931,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -7868,6 +7980,7 @@
 	</types>
 	<runs>
 		<run>Brilliant Diamond</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7990,6 +8103,7 @@
 	</types>
 	<runs>
 		<run>Mega Power</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8070,10 +8184,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8086,6 +8201,7 @@
 	<runs>
 		<run>Wilting Y</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8120,6 +8236,7 @@
 		<run>Vega</run>
 		<run>Brilliant Diamond</run>
 		<run>Unbound</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8184,6 +8301,7 @@
 	<runs>
 		<run>Blazing Emerald</run>
 		<run>Prism Anniversary</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8200,6 +8318,7 @@
 	</types>
 	<runs>
 		<run>Blazed Glazed</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8235,6 +8354,7 @@
 		<run>Randomized Y</run>
 		<run>Flora Sky</run>
 		<run>Scarlet</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8282,6 +8402,7 @@
 	</types>
 	<runs>
 		<run>Storm Silver</run>
+		<run>Vanilla HeartGold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8301,6 +8422,7 @@
 		<run>Randomized SoulSilver</run>
 		<run>Super Gauntlet Y</run>
 		<run>ZPP Blanc Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8364,6 +8486,7 @@
 	<runs>
 		<run>Gauntlet Platinum</run>
 		<run>Super Gauntlet Legends Arceus</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8382,6 +8505,7 @@
 		<run>Legends Arceus</run>
 		<run>Dual Sanqui Red</run>
 		<run>Nameless</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8398,6 +8522,7 @@
 	</types>
 	<runs>
 		<run>Resolute</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8413,6 +8538,8 @@
 	</types>
 	<runs>
 		<run>Resolute</run>
+		<run>Unbound Revisit</run>
+		<run>Luminescent Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8430,6 +8557,7 @@
 	<runs>
 		<run>Gauntlet Platinum</run>
 		<run>Brilliant Diamond</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8446,6 +8574,7 @@
 	<runs>
 		<run>Randomized White 2</run>
 		<run>Dual Sanqui Red</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8491,6 +8620,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Black 2</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8507,6 +8637,7 @@
 	<runs>
 		<run>Flora Sky</run>
 		<run>Dual Sanqui Red</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8525,6 +8656,7 @@
 		<run>Super Gauntlet Diamond</run>
 		<run>Super Gauntlet Pearl</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8883,6 +9015,7 @@
 	<runs>
 		<run>Mega Power</run>
 		<run>Ultra Mega Power</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9100,6 +9233,7 @@
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Randomized Chatty Crystal</run>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9115,6 +9249,7 @@
 	</types>
 	<runs>
 		<run>Nameless</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9421,6 +9556,7 @@
 	<runs>
 		<run>Super Gauntlet White</run>
 		<run>Super Gauntlet Scarlet Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9485,9 +9621,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9499,9 +9636,10 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9574,6 +9712,7 @@
 	</types>
 	<runs>
 		<run>Inverse White 2</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9635,9 +9774,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9650,9 +9790,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9756,6 +9897,7 @@
 	</types>
 	<runs>
 		<run>Inverse White</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9770,9 +9912,10 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9890,6 +10033,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet White</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10026,6 +10170,7 @@
 	</types>
 	<runs>
 		<run>Black</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10043,6 +10188,7 @@
 	<runs>
 		<run>Black Revisit</run>
 		<run>Super Gauntlet Black 2</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10134,9 +10280,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -10421,9 +10568,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -10466,6 +10614,7 @@
 	</types>
 	<runs>
 		<run>Inverse White</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10857,6 +11006,7 @@
 		<run>Volt White 2 Redux</run>
 		<run>Inverse White</run>
 		<run>ZPP Blanc Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10917,9 +11067,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -10933,6 +11084,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Black</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10983,6 +11135,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Black 2</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11000,6 +11153,7 @@
 	<runs>
 		<run>Inverse White 2</run>
 		<run>Super Gauntlet White</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11035,6 +11189,7 @@
 		<run>Randomized Black 2</run>
 		<run>Resolute</run>
 		<run>Super Gauntlet White</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11052,6 +11207,7 @@
 	<runs>
 		<run>Rising Ruby</run>
 		<run>Randomized Black</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11187,6 +11343,7 @@
 	<runs>
 		<run>Wilting Y</run>
 		<run>Photonic Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11307,6 +11464,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Y</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11355,9 +11513,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -11370,6 +11529,7 @@
 	</types>
 	<runs>
 		<run>Photonic Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11386,9 +11546,10 @@
 	<runs>
 		<run>Ultra Mega Power</run>
 		<run>Ultra Mega Power Revisit</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>side</rank>
 		<emblem>inter</emblem>
 	</status>
   </mon> 
@@ -11461,6 +11622,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Y</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11490,6 +11652,7 @@
 	</types>
 	<runs>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11658,6 +11821,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Y</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12001,6 +12165,7 @@
 	</types>
 	<runs>
 		<run>Ultra Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12123,6 +12288,7 @@
 	<runs>
 		<run>X</run>
 		<run>Dual Sanqui Blue</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12139,6 +12305,7 @@
 	</types>
 	<runs>
 		<run>Wilting Y</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12155,6 +12322,7 @@
 	</types>
 	<runs>
 		<run>Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12174,6 +12342,7 @@
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Dual Sanqui Red</run>
 		<run>Mega Power</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12190,6 +12359,7 @@
 	</types>
 	<runs>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12205,9 +12375,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12477,6 +12648,7 @@
 	<runs>
 		<run>Ultra Sun</run>
 		<run>Resolute</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12522,6 +12694,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12582,6 +12755,7 @@
 	</types>
 	<runs>
 		<run>Ultra Sun</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12687,6 +12861,7 @@
 	</types>
 	<runs>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12809,6 +12984,7 @@
 	</types>
 	<runs>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12928,6 +13104,7 @@
 	</types>
 	<runs>
 		<run>Victory Fire</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13001,6 +13178,8 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Sword</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13061,6 +13240,7 @@
 	</types>
 	<runs>
 		<run>Unbound</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13246,9 +13426,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13260,9 +13441,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13293,6 +13475,7 @@
 	<runs>
 		<run>Waning Moon</run>
 		<run>Super Gauntlet Ultra Moon</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13404,9 +13587,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13421,6 +13605,7 @@
 		<run>Photonic Sun</run>
 		<run>Photonic Sun Revisit - Lusamine Day</run>
 		<run>Scarlet Revisit - Switch 2</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13437,6 +13622,7 @@
 	</types>
 	<runs>
 		<run>Randomized Violet+</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13452,9 +13638,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13482,6 +13669,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Ultra Moon</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13544,9 +13732,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14143,6 +14332,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Violet</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14230,10 +14420,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14438,10 +14629,11 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Shield</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14514,10 +14706,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14543,9 +14736,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14588,10 +14782,11 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14603,9 +14798,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14618,10 +14814,12 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14634,6 +14832,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Shield</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14650,6 +14849,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Shield</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14745,6 +14945,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Shield</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14777,9 +14978,10 @@
 	</types>
 	<runs>
 		<run>Sword Revisit - Isle of Armor</run>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14807,6 +15009,7 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank></rank>
@@ -14821,9 +15024,10 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14835,9 +15039,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14878,9 +15083,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Randomized Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14927,9 +15133,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14943,6 +15150,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Legends Arceus</run>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14958,9 +15166,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14988,9 +15197,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16101,6 +16311,7 @@
 	</types>
 	<runs>
 		<run>Randomized Violet+</run>
+		<run>Emerald Anniversary</run>
 	</runs>
 	<status>
 		<rank>main</rank>
