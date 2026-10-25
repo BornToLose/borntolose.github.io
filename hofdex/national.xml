@@ -7242,7 +7242,6 @@
 		<run>Blazing Emerald</run>
 		<run>Legends Arceus</run>
 		<run>Randomized Violet+</run>
-		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15012,7 +15011,7 @@
 		<run>Unbound Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
