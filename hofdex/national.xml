@@ -155,6 +155,7 @@
 		<run>NES Yellow</run>
 		<run>Legends Z-A</run>
 		<run>Unbound Revisit</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -691,6 +692,7 @@
 		<run>Blazing Emerald Runback</run>
 		<run>Yellow: Cramorant Edition</run>
 		<run>GB Tower Crystal - VC Revisit</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1737,6 +1739,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Red</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2672,6 +2675,7 @@
 		<run>Bootleg Green</run>
 		<run>Bronze</run>
 		<run>XG</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2959,6 +2963,7 @@
 	<runs>
 		<run>Crystal</run>
 		<run>Scarlet Revisit - Switch 2</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3038,9 +3043,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -3085,9 +3091,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -3146,9 +3153,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4681,6 +4689,7 @@
 		<run>Debug Rubin</run>
 		<run>Unbound</run>
 		<run>Unbound Revisit</run>
+		<run>LeafGreen</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5480,6 +5489,7 @@
 	</types>
 	<runs>
 		<run>Omega Ruby</run>
+		<run>FRLG.ips - CASSIE Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>

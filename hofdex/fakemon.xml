@@ -4305,9 +4305,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Peridot</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
