@@ -232,7 +232,7 @@ function buildTypeList(mon){
 function clearAll(dexType){
 	
 	if (dexType == "fakemon") {
-		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "xgr-orre", "u-alola", "fus-johto", "sweetland", "solana", "larmog", "gensokyo", "dragonland"];
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "exp-kanto", "peridot", "xgr-orre", "u-alola", "sw-hoenn", "gh-kanto", "fus-johto", "sweetland", "tyron", "cyenn", "solana", "minnesota", "larmog", "digiworld", "gensokyo", "dragonland", "sus-hoenn"];
 	} else {
 		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea", "other"];
 	}
@@ -246,7 +246,7 @@ function clearAll(dexType){
 function nothingToDisplay(dexType){
 	
 	if (dexType == "fakemon") {
-		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "xgr-orre", "u-alola", "fus-johto", "sweetland", "solana", "larmog", "gensokyo", "dragonland"];
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "exp-kanto", "peridot", "xgr-orre", "u-alola", "sw-hoenn", "gh-kanto", "fus-johto", "sweetland", "tyron", "cyenn", "solana", "minnesota", "larmog", "digiworld", "gensokyo", "dragonland", "sus-hoenn"];
 	} else {
 		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea", "other"];
 	}

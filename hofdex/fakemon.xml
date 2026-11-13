@@ -679,6 +679,51 @@
 		<emblem></emblem>
 	</status>
   </mon> 
+ 
+  <mon region="none" final="false">
+	<num>00PK</num>
+    <name>.ᴾₖᴹₙ</name>
+	<types>
+		<type>Normal</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+ 
+  <mon region="none" final="false">
+	<num>00PC</num>
+    <name>PC 4S H</name>
+	<types>
+		<type>Normal</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+ 
+  <mon region="none" final="false">
+	<num>000h</num>
+    <name>h POKé</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
   
 <!-- NALJO -->
 
@@ -8014,6 +8059,1502 @@
   </mon>
 
   
+<!-- GHOST KANTO -->
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0007</num>
+    <name>Spiritle</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0008</num>
+    <name>Wickortle</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0009</num>
+    <name>Lichtoise</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0010</num>
+    <name>Shuderbug</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0011</num>
+    <name>Spewkpa</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0012</num>
+    <name>Vivillain</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0013</num>
+    <name>Scaras</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0014</num>
+    <name>Poltersect</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0015</num>
+    <name>Mereanie</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0016</num>
+    <name>Scarly</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0017</num>
+    <name>Scaravia</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0018</num>
+    <name>Scaraptor</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0023</num>
+    <name>Klefkorpse</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0024</num>
+    <name>Pikaboo</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0026</num>
+    <name>Lunachu</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0028</num>
+    <name>Hexio</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0029</num>
+    <name>Hexray</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0042</num>
+    <name>Tinkatweet</name>
+	<types>
+		<type>Fairy</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0043</num>
+    <name>Tinkatrick</name>
+	<types>
+		<type>Fairy</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0044</num>
+    <name>Tinkotreat</name>
+	<types>
+		<type>Fairy</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+		<run>Ghost Grey</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0047</num>
+    <name>Viralplume</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0049</num>
+    <name>Dreadigon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0054</num>
+    <name>Shushum</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0056</num>
+    <name>Trubbag</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0057</num>
+    <name>Garbdourge</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0064</num>
+    <name>Mr. Maim</name>
+	<types>
+		<type>Psychic</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0065</num>
+    <name>Sparrowe</name>
+	<types>
+		<type>Flying</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0066</num>
+    <name>Farrowe</name>
+	<types>
+		<type>Flying</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0077</num>
+    <name>Vanillt</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0078</num>
+    <name>Vanillist</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0081</num>
+    <name>Shroomick</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0087</num>
+    <name>Magnamite</name>
+	<types>
+		<type>Steel</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0088</num>
+    <name>Magnatron</name>
+	<types>
+		<type>Steel</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0098</num>
+    <name>Pinsaca</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0100</num>
+    <name>Gauntrise</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0102</num>
+    <name>Medimind</name>
+	<types>
+		<type>Ghost</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0114</num>
+    <name>Shedicobra</name>
+	<types>
+		<type>Ground</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0115</num>
+    <name>Shedaconda</name>
+	<types>
+		<type>Ground</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0117</num>
+    <name>Brambela</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0118</num>
+    <name>Brambalam</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0119</num>
+    <name>Killtorb</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0120</num>
+    <name>Electrauma</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0132</num>
+    <name>Reapor</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0133</num>
+    <name>Cyndersqil</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0134</num>
+    <name>Quilasthma</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0137</num>
+    <name>Discomfrey</name>
+	<types>
+		<type>Fairy</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0143</num>
+    <name>Snever</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0144</num>
+    <name>Unbomasnow</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0145</num>
+    <name>Hauntochan</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0146</num>
+    <name>Hauntolee</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0147</num>
+    <name>Hauntotop</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0150</num>
+    <name>Nosegast</name>
+	<types>
+		<type>Rock</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0151</num>
+    <name>Probogast</name>
+	<types>
+		<type>Rock</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0153</num>
+    <name>Lumburr</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0154</num>
+    <name>Shivburr</name>
+	<types>
+		<type>Ice</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0156</num>
+    <name>Goodrome</name>
+	<types>
+		<type>Ghost</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0157</num>
+    <name>Petill</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0158</num>
+    <name>Illigant</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0163</num>
+    <name>Rhysaurus</name>
+	<types>
+		<type>Ghost</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0168</num>
+    <name>Grimeorb</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0170</num>
+    <name>Jiangfoo</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0171</num>
+    <name>Jiangshao</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0174</num>
+    <name>Celestar</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0175</num>
+    <name>Lotasma</name>
+	<types>
+		<type>Ghost</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0177</num>
+    <name>Ludicala</name>
+	<types>
+		<type>Ghost</type>
+		<type>Water</type>
+	</types>
+	<runs>
+		<run>Ghost Grey</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0179</num>
+    <name>Moregrem</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0180</num>
+    <name>Greemsnarl</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0183</num>
+    <name>Voivern</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0194</num>
+    <name>Draconair</name>
+	<types>
+		<type>Dragon</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0195</num>
+    <name>Draconite</name>
+	<types>
+		<type>Dragon</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0205</num>
+    <name>Mewthree</name>
+	<types>
+		<type>Ghost</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+		<run>Ghost Grey</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0207</num>
+    <name>Ierie</name>
+	<types>
+		<type>Psychic</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0208</num>
+    <name>Regiscream</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0209</num>
+    <name>Rayxuaza</name>
+	<types>
+		<type>Ghost</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0210</num>
+    <name>Ambeing</name>
+	<types>
+		<type>Ghost</type>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0212</num>
+    <name>Gloomeon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0216</num>
+    <name>GHOST</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0217</num>
+    <name>GHOST</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0218</num>
+    <name>Garpievoir</name>
+	<types>
+		<type>Fairy</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0219</num>
+    <name>PORYGON.co</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0221</num>
+    <name>Eyeron</name>
+	<types>
+		<type>Ghost</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0223</num>
+    <name>Beth</name>
+	<types>
+		<type>Ghost</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0224</num>
+    <name>Joelle</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+		<run>Ghost Grey</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0225</num>
+    <name>Amy</name>
+	<types>
+		<type>Ghost</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0226</num>
+    <name>Meg</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0227</num>
+    <name>Victrebaba</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0228</num>
+    <name>Bubble</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0229</num>
+    <name>Aipomaster</name>
+	<types>
+		<type>Ghost</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0230</num>
+    <name>Stalfos</name>
+	<types>
+		<type>Ghost</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0240</num>
+    <name>SkarabEX</name>
+	<types>
+		<type>Ghost</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0241</num>
+    <name>Puncher</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0242</num>
+    <name>Boo</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0243</num>
+    <name>King Boo</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0244</num>
+    <name>Keyzer</name>
+	<types>
+		<type>Ghost</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0245</num>
+    <name>Bogmire</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0248</num>
+    <name>Minotauros</name>
+	<types>
+		<type>Ghost</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0252</num>
+    <name>Human</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="false">
+	<num>GHG-0253</num>
+    <name>.EXEggcute</name>
+	<types>
+		<type>Ghost</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0254</num>
+    <name>.EXEggutor</name>
+	<types>
+		<type>Ghost</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gh-kanto" final="true">
+	<num>GHG-0293</num>
+    <name>Nogoat</name>
+	<types>
+		<type>Ghost</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+
 <!-- FUSED JOHTO -->
 
   <mon region="fus-johto" final="false">
