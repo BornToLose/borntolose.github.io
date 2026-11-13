@@ -3882,7 +3882,7 @@
 	</status>
   </mon>
 
-  <mon region="nihon" final="true">
+  <mon region="nihon" final="false">
 	<num>SWG-0170</num>
     <name>Kotora</name>
 	<types>
